@@ -3,6 +3,8 @@ import { Viewer, Worker } from "@react-pdf-viewer/core";
 import "@react-pdf-viewer/core/lib/styles/index.css";
 import axios from "axios";
 import { Typography, TextField, Button, Select, MenuItem, Card, CardContent, Grid } from "@mui/material";
+import { CircularProgress } from "@mui/material";
+
 
 export default function MarketAnalyzer() {
   const [pdfFiles] = useState([
@@ -24,8 +26,12 @@ export default function MarketAnalyzer() {
 
   const [expandedChunk, setExpandedChunk] = useState(null);
 
-  // const BACKEND_URL = "http://localhost:8080";
-  const BACKEND_URL = "https://rag-market-analyzer-792544276770.us-central1.run.app";
+  // Add loading states
+  const [searchLoading, setSearchLoading] = useState(false);
+  const [comparisonLoading, setComparisonLoading] = useState(false);
+
+  const BACKEND_URL = "http://localhost:8080";
+  //const BACKEND_URL = "https://rag-market-analyzer-792544276770.us-central1.run.app";
   const GCS_BUCKET_URL = "https://storage.googleapis.com/rag-frontend-bucket/pdfs";
 
   // Fetch summaries on load
@@ -47,6 +53,7 @@ export default function MarketAnalyzer() {
       alert("Please enter a search query.");
       return;
     }
+    setSearchLoading(true); // Start loading
     try {
       const response = await axios.post(
         `${BACKEND_URL}/api/rag/search/`,
@@ -58,6 +65,8 @@ export default function MarketAnalyzer() {
     } catch (error) {
       console.error("Error fetching data:", error);
       setResult("Error: Unable to fetch data. Check console for details.");
+    }finally {
+      setSearchLoading(false); // Stop loading
     }
   };
 
@@ -73,7 +82,7 @@ export default function MarketAnalyzer() {
       pdf2_id: selectedPdf2,
       top_k: 6,
     };
-
+    setComparisonLoading(true); // Start loading
     try {
       const response = await axios.post(
         `${BACKEND_URL}/api/rag/compare/`,
@@ -88,6 +97,8 @@ export default function MarketAnalyzer() {
     } catch (error) {
       console.error("Error fetching comparison data:", error);
       setComparisonResult("Error: Unable to fetch comparison data.");
+    }finally {
+      setComparisonLoading(false); // Stop loading
     }
   };
 
@@ -103,14 +114,26 @@ export default function MarketAnalyzer() {
   const pdf2Url = selectedPdf2Data ? `${GCS_BUCKET_URL}/${selectedPdf2Data.filename}` : null;
 
   return (
-    <div style={{ maxWidth: "1200px", margin: "auto", fontFamily: "Arial" }}>
+    <div style={{
+      maxWidth: "100%",
+      minHeight: "100vh",
+      margin: "0",
+      padding: "0",
+      fontFamily: "Arial",
+      background: "#ffffff",
+      display: "flex",
+      flexDirection: "column"
+    }}>
       <Typography
-        variant="h5"
+        variant="h3"
         style={{
-          fontFamily: "Georgia, serif",
-          fontWeight: "bold",
+          fontFamily: "'Playfair Display', serif", // Stylish font
+          fontWeight: 700, // Bold
           textAlign: "center",
-          marginBottom: "20px",
+          color: "#fca311",
+          textShadow: "2px 2px 4px rgba(0, 0, 0, 0)", // Soft shadow for style
+          letterSpacing: "2px", // Add spacing for elegance
+          marginBottom: "30px",
         }}
       >
         AI-Powered Market Analyzer
@@ -120,18 +143,10 @@ export default function MarketAnalyzer() {
       <Grid container spacing={2}>
         {/* PDF 1 */}
         <Grid item xs={6}>
-          <Select
-            value={selectedPdf1}
-            onChange={(e) => setSelectedPdf1(e.target.value)}
-            fullWidth
-            style={{ marginBottom: "10px" }}
-          >
-            {pdfFiles.map((file) => (
-              <MenuItem key={file.id} value={file.id}>
-                {file.name}
-              </MenuItem>
-            ))}
-          </Select>
+          <div className="global-box">
+            <Typography variant="h6" className="unselectable">{selectedPdf1Data?.name}</Typography>
+          </div>
+
 
           <div style={{ border: "1px solid #ccc", padding: "10px", height: "500px" }}>
             {pdf1Url ? (
@@ -143,12 +158,12 @@ export default function MarketAnalyzer() {
             )}
           </div>
 
-          <Card style={{ marginTop: "20px", padding: "15px" }}>
+          <Card className="global-box">
             <CardContent>
               <Typography variant="h6" style={{ fontWeight: "bold" }}>
                 📄 Summary (PDF 1):
               </Typography>
-              <Typography variant="body2" style={{ whiteSpace: "pre-line" }}>
+              <Typography variant="body2" style={{ whiteSpace: "pre-line", marginTop: "10px" }}>
                 {summaries[selectedPdf1] || "Loading summary..."}
               </Typography>
             </CardContent>
@@ -157,18 +172,10 @@ export default function MarketAnalyzer() {
 
         {/* PDF 2 */}
         <Grid item xs={6}>
-          <Select
-            value={selectedPdf2}
-            onChange={(e) => setSelectedPdf2(e.target.value)}
-            fullWidth
-            style={{ marginBottom: "10px" }}
-          >
-            {pdfFiles.map((file) => (
-              <MenuItem key={file.id} value={file.id}>
-                {file.name}
-              </MenuItem>
-            ))}
-          </Select>
+          <div className="global-box">
+            <Typography variant="h6" className="unselectable">{selectedPdf2Data?.name}</Typography>
+          </div>
+
 
           <div style={{ border: "1px solid #ccc", padding: "10px", height: "500px" }}>
             {pdf2Url ? (
@@ -180,12 +187,12 @@ export default function MarketAnalyzer() {
             )}
           </div>
 
-          <Card style={{ marginTop: "20px", padding: "15px" }}>
+          <Card className="global-box">
             <CardContent>
               <Typography variant="h6" style={{ fontWeight: "bold" }}>
                 📄 Summary (PDF 2):
               </Typography>
-              <Typography variant="body2" style={{ whiteSpace: "pre-line" }}>
+              <Typography variant="body2" style={{ whiteSpace: "pre-line", marginTop: "10px" }}>
                 {summaries[selectedPdf2] || "Loading summary..."}
               </Typography>
             </CardContent>
@@ -194,43 +201,69 @@ export default function MarketAnalyzer() {
       </Grid>
 
       {/* PDF Selector for Search */}
-      <Select
-        value={selectedSearchPdf}
-        onChange={(e) => setSelectedSearchPdf(e.target.value)}
-        fullWidth
-        style={{ marginBottom: "10px" }}
-      >
-        {pdfFiles.map((file) => (
-            <MenuItem key={file.id} value={file.id}>
-                {file.name}
-            </MenuItem>
-        ))}
-      </Select>
+      <div className="global-box">
+          <Typography
+            variant="subtitle1"
+            style={{
+              fontWeight: "bold",
+              marginBottom: "8px",
+              fontSize: "1.2rem",
+            }}
+          >
+          Choose a PDF document to analyze:
+        </Typography>
+          <Select
+            value={selectedSearchPdf}
+            onChange={(e) => setSelectedSearchPdf(e.target.value)}
+            fullWidth
+            style={{ marginBottom: "10px" }}
+          >
+            {pdfFiles.map((file) => (
+                <MenuItem key={file.id} value={file.id}>
+                    {file.name}
+                </MenuItem>
+            ))}
+          </Select>
 
 
-      {/* AI-Powered Search */}
-      <TextField
-        label="Ask something about the reports..."
-        variant="outlined"
-        fullWidth
-        value={query}
-        onChange={(e) => setQuery(e.target.value)}
-        style={{ margin: "20px 0" }}
-      />
+          {/* AI-Powered Search */}
+          <TextField
+            label="Ask something about the reports..."
+            variant="outlined"
+            fullWidth
+            value={query}
+            onChange={(e) => setQuery(e.target.value)}
+            style={{ margin: "20px 0" }}
+          />
+      </div>
 
-      <Button variant="contained" color="primary" fullWidth onClick={handleSearch}>
-        Search
-      </Button>
+      <div className="centered-buttons">
+        <Button variant="contained" color="primary" onClick={handleSearch}
+          className="small-button"
+        >
+          Search
+        </Button>
+      </div>
+
+      {/* ✅ Display Loading Indicator for Single Search */}
+      {searchLoading && (
+        <div style={{ display: "flex", justifyContent: "center", margin: "20px 0" }}>
+          <CircularProgress style={{ color: "#fca311" }} size={40} />
+          <Typography variant="h6" style={{ marginLeft: "10px", fontWeight: "bold", color: "#fca311" }}>
+            Generating results... Please wait.
+          </Typography>
+        </div>
+      )}
 
       {/* Single PDF Search Results */}
       {result && (
-        <Card style={{ marginTop: "20px", padding: "15px" }}>
+        <Card className="global-box">
           <CardContent>
             <Typography variant="h6" style={{ fontWeight: "bold" }}>
               🔍 AI Response:
             </Typography>
             <Typography variant="body1" style={{ whiteSpace: "pre-line", marginTop: "10px" }}>
-              {result}
+              {result || "Loading ..."}
             </Typography>
 
             <Typography variant="body1" style={{ marginTop: "20px", fontWeight: "bold" }}>
@@ -240,24 +273,16 @@ export default function MarketAnalyzer() {
               {sourceChunks.map((chunk, index) => (
                 <li
                   key={index}
+                  className="source-chunk"
                   onClick={() => handleChunkClick(index)}
-                  style={{
-                    cursor: "pointer",
-                    color: "blue",
-                    textDecoration: "underline",
-                    marginBottom: "5px",
-                  }}
                 >
-                  {chunk.Content.replace(/\[Page\s*Unknown\]/gi, "").substring(0, 100)}...
-                  {chunk.Content.substring(0, 100)}...
+                  {chunk.Page && chunk.Page.toLowerCase() !== "unknown"
+                    ? `Source ${index + 1} (Page ${chunk.Page})`
+                    : `Source ${index + 1}`}
+
                   {expandedChunk === index && (
                     <Typography
                       variant="body2"
-                      style={{
-                        whiteSpace: "pre-line",
-                        color: "black",
-                        marginTop: "5px",
-                      }}
                     >
                       {chunk.Content}
                     </Typography>
@@ -269,23 +294,39 @@ export default function MarketAnalyzer() {
         </Card>
       )}
 
-      {/* Comparison Search */}
-      <TextField
-        label="Compare across two PDFs..."
-        variant="outlined"
-        fullWidth
-        value={comparisonQuery}
-        onChange={(e) => setComparisonQuery(e.target.value)}
-        style={{ margin: "20px 0" }}
-      />
+      <div className="global-box">
+          {/* Comparison Search */}
+          <TextField
+            label="Compare across two PDFs..."
+            variant="outlined"
+            fullWidth
+            value={comparisonQuery}
+            onChange={(e) => setComparisonQuery(e.target.value)}
+            style={{ margin: "20px 0" }}
+          />
+      </div>
 
-      <Button variant="contained" color="secondary" fullWidth onClick={handleCompareSearch}>
-        Compare Two PDFs
-      </Button>
+      <div className="centered-buttons">
+        <Button variant="contained" color="secondary" onClick={handleCompareSearch}
+          className="small-button"
+        >
+          Compare Two PDFs
+        </Button>
+      </div>
+
+      {/* ✅ Display Loading Indicator for Comparison */}
+      {comparisonLoading && (
+        <div style={{ display: "flex", justifyContent: "center", margin: "20px 0" }}>
+          <CircularProgress style={{ color: "#fca311" }} size={40} />
+          <Typography variant="h6" style={{ marginLeft: "10px", fontWeight: "bold", color: "#fca311" }}>
+            Comparing documents... Please wait.
+          </Typography>
+        </div>
+      )}
 
       {/* Comparison Results */}
       {comparisonResult && (
-        <Card style={{ marginTop: "20px", padding: "15px" }}>
+        <Card className="global-box">
           <CardContent>
             <Typography variant="h6" style={{ fontWeight: "bold" }}>
               📊 AI Response (Cross-PDF Comparison):
@@ -302,47 +343,34 @@ export default function MarketAnalyzer() {
               {comparisonSources.pdf1.map((chunk, index) => (
                 <li
                   key={`pdf1-${index}`}
+                  className="source-chunk"
                   onClick={() => handleChunkClick(`pdf1-${index}`)}
-                  style={{
-                    cursor: "pointer",
-                    color: "blue",
-                    textDecoration: "underline",
-                    marginBottom: "5px",
-                  }}
                 >
-                  <b>
-                    {chunk.Page && chunk.Page.toLowerCase() !== "unknown"
-                        ? `Page ${chunk.Page} (PDF 1):`
-                        : "(PDF 1):"}{" "}
-                  </b>
-                  {chunk.Content.replace(/\[Page\s*Unknown\]/gi, "").substring(0, 100)}...
+                  {chunk.Page && chunk.Page.toLowerCase() !== "unknown"
+                    ? `Source ${index + 1} (PDF 1, Page ${chunk.Page})`
+                    : `Source ${index + 1} (PDF 1)`}
+
                   {expandedChunk === `pdf1-${index}` && (
-                    <Typography variant="body2" style={{ whiteSpace: "pre-line", color: "black", marginTop: "5px" }}>
+                    <Typography variant="body2">
                       {chunk.Content}
                     </Typography>
                   )}
                 </li>
               ))}
 
+
               {comparisonSources.pdf2.map((chunk, index) => (
                 <li
                   key={`pdf2-${index}`}
+                  className="source-chunk"
                   onClick={() => handleChunkClick(`pdf2-${index}`)}
-                  style={{
-                    cursor: "pointer",
-                    color: "blue",
-                    textDecoration: "underline",
-                    marginBottom: "5px",
-                  }}
                 >
-                  <b>
-                    {chunk.Page && chunk.Page.toLowerCase() !== "unknown"
-                        ? `Page ${chunk.Page} (PDF 2):`
-                        : "(PDF 2):"}{" "}
-                  </b>
-                  {chunk.Content.replace(/\[Page\s*\d+\]/gi, "").substring(0, 100)}...
+                  {chunk.Page && chunk.Page.toLowerCase() !== "unknown"
+                    ? `Source ${index + 1} (PDF 2, Page ${chunk.Page})`
+                    : `Source ${index + 1} (PDF 2)`}
+
                   {expandedChunk === `pdf2-${index}` && (
-                    <Typography variant="body2" style={{ whiteSpace: "pre-line", color: "black", marginTop: "5px" }}>
+                    <Typography variant="body2">
                       {chunk.Content}
                     </Typography>
                   )}

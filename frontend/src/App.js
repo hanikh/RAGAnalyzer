@@ -1,5 +1,6 @@
 import React from "react";
 import MarketAnalyzer from "./RAGAnalyzer";
+import './App.css';
 
 function App() {
   return (

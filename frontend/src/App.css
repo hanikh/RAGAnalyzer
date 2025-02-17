@@ -1,0 +1,128 @@
+/* ===== Global Styling for RAG Analyzer ===== */
+
+/* Import Poppins from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+/* ✅ Apply Global Font Styling */
+body, html {
+  font-family: 'Poppins', sans-serif; /* Ensure the entire app uses Poppins */
+  background-color: #ffffff !important; /* Keep your soft pink background */
+  color: #333; /* Dark gray text for readability */
+  margin: 0;
+  padding: 0;
+}
+
+/* ✅ Override all elements */
+* {
+  font-family: 'Poppins', sans-serif !important;
+}
+
+/* ✅ Make Text Look Beautiful */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600; /* Bolder headers */
+}
+
+p, span, label, button {
+  font-weight: 400; /* Normal weight for readability */
+}
+
+
+/* Thicker borders and bold text for sections (except answers) */
+.card-section {
+  border: 4px solid black; /* Thick black border */
+  border-radius: 10px;     /* Rounded corners */
+  padding: 15px;
+  margin: 20px 0;
+  font-weight: bold;       /* Bold text inside cards */
+  background-color: #e0f7fa !important; /* Soft pink background inside */
+}
+
+/* Ensure answers are normal weight (not bold) */
+.answer-section {
+  font-weight: normal !important;
+}
+
+/* For comparison sections */
+.comparison-section {
+  border: 4px solid #000;
+  padding: 15px;
+  font-weight: bold;
+  background-color: #e0f7fa !important; /* Soft pink background */
+}
+
+/* ✅ Global Box Style - Green-Blue Borders */
+.global-box {
+  /*border: 4px solid #00FFFF !important; /* Dodger Blue */
+  max_width: 85%;
+  border-radius: 16px;
+  padding: 16px;
+  margin-bottom: 20px;
+  background-color: #e5e5e5 !important; /* Light Cyan Background */
+  box-shadow: #000000 !important; /* Teal shadow */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Hover effect for all boxes */
+.global-box:hover {
+  transform: translateY(-4px);
+  box-shadow: 6px 6px 12px #000000;
+}
+
+/* ✅ Non-selectable Text */
+.unselectable {
+  user-select: none;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+/* Styling source chunks */
+.source-chunk {
+  font-weight: bold; /* Bold for source references */
+  border-bottom: 2px dashed #000; /* Dashed separator for sources */
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+  cursor: pointer; /* Show hand pointer */
+  color: #007acc; /* Link color */
+  transition: color 0.2s;
+}
+
+/* ✅ Source Link Hover Effect */
+.source-chunk:hover {
+  color: #004aad; /* Darker blue on hover */
+  text-decoration: underline;
+}
+
+.centered-buttons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.small-button {
+  background-color: #fca311 !important;
+  color: black !important;
+  padding: 6px 6px;
+  font-size: 0.8rem;
+  width: 180px;
+  margin-bottom: 20px !important;
+}
+
+.small-button:hover {
+  background-color: #0d68cc; /* Slightly darker blue on hover */
+}
+
+#root, body, html {
+  background-color: #ffffff !important; /* Light Cyan */
+  height: auto;
+  max-width: 1500px;
+  margin: 0 auto;
+  padding: 0;
+  align-items: center;
+  padding-bottom: 50px;
+}
+
+
+
+
+

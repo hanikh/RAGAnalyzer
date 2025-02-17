@@ -1,6 +1,7 @@
 # backend/services/rag_service.py
 import json
 import os
+import re
 import logging
 from fastapi import HTTPException
 from src.utils.utils import DocumentProcessor, load_json, save_json, FAISSManager, ContentChunker, Comparison
@@ -44,12 +45,7 @@ class RAGService:
             # Check if summary already exists or generate if missing
             if not os.path.exists(summary_path):
                 logging.info(f"Summary for {pdf_id} missing. Generating...")
-                processor = DocumentProcessor(
-                    pdf_id=pdf_id,
-                    pdf_path=PDF_FILES[pdf_id],
-                    output_path=OUTPUT_PATH,
-                    faiss_manager=None
-                )
+                processor = DocumentProcessor(pdf_id, PDF_FILES[pdf_id], FAISS_PATHS)
 
                 doc = processor.process()
             else:
@@ -110,8 +106,10 @@ class RAGService:
         processor = DocumentProcessor(pdf_id, PDF_FILES[pdf_id], FAISS_PATHS)
         answer = processor.generate_output(query, similar_results)
 
+        formatted_answer = self.format_ai_response(answer)
+
         return {
-            "answer": answer,
+            "answer": formatted_answer,
             "source_chunks": source_chunks,
         }
 
@@ -128,8 +126,10 @@ class RAGService:
 
         compare = Comparison()
         response = compare.generate_comparison_answer(query, results_pdf1, results_pdf2)
+        # Format the AI output for clarity
+        formatted_response = self.format_ai_response(response)
 
-        def shorten_chunks(chunks, max_length=500):
+        def shorten_chunks(chunks, max_length=600):
             """Truncate long content for frontend display."""
             return [
                 {
@@ -146,9 +146,33 @@ class RAGService:
 
         return {
             "query": query,
-            "response": response,
+            "response": formatted_response,
             "source_chunks_pdf1": source_chunks_pdf1 if source_chunks_pdf1 else [],
             "source_chunks_pdf2": source_chunks_pdf2 if source_chunks_pdf2 else [],
         }
+
+    import re
+
+    def format_ai_response(self, response: str) -> str:
+        """
+        Converts markdown-style symbols into a structured, readable format.
+        """
+
+        # Convert headings (e.g., #### Section) to uppercase titles
+        response = re.sub(r'####\s*(.*)', r'\n--- \1 ---\n', response)  # Large headings
+        response = re.sub(r'###\s*(.*)', r'\n-- \1 --\n', response)  # Medium headings
+        response = re.sub(r'##\s*(.*)', r'\n- \1 -\n', response)  # Small headings
+
+        # Convert bold text (**bold**) to uppercase or emphasis
+        response = re.sub(r'\*\*(.*?)\*\*', r'\1', response)  # Remove bold markdown
+
+        # Replace lists (e.g., -- Item) with bullet points
+        response = re.sub(r'--\s*', r'• ', response)  # Dashed lists to bullets
+
+        # Remove multiple line breaks
+        response = re.sub(r'\n\s*\n+', r'\n\n', response)  # Clean extra line breaks
+        response = re.sub(r'(•\s*- PDF \d+ Findings)', r'\n\n\1', response)
+
+        return response.strip()
 
 

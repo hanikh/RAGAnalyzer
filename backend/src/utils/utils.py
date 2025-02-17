@@ -163,11 +163,23 @@ class Summarizer:
     def __init__(self, openai_client):
         self.openai_client = openai_client
 
-    def summarize(self, text, max_tokens=300):
+    def summarize(self, text, max_tokens=700):
         """Generate summary from content."""
         try:
-            prompt = ("Summarize the following content in a concise, structured format with proper line breaks, bullet "
-                      "points, and sections for readability.")
+            prompt = '''Summarize the provided document into a clear, concise, and well-structured format with proper
+                      headings and line breaks. Organize the summary based on the document’s content, ensuring it is
+                      suitable for business and financial reports. Use the following structure where applicable:
+                      - Document Overview: Brief introduction and purpose of the document.
+                      - Key Sections and Topics: Summarize major sections and highlight critical points.
+                      - Financial Highlights (if applicable): Key metrics, earnings, and performance indicators.
+                      - Policies and Proposals (if applicable): Governance policies, proposals, and recommendations.
+                      - Trends, Comparisons, or Patterns: Key observations from data or tables.
+                      - Decisions or Outcomes: Board resolutions, shareholder votes, or business impacts.
+                      Output Guidelines:
+                      - Present content using clear sections and line breaks for readability.
+                      - Avoid markdown symbols (e.g., ###, **, --). Use simple, plain text with headings.
+                      - Focus on key facts and insights without unnecessary detail.
+                      - Use bullet points or numbered lists for clarity where suitable.'''
             response = self.openai_client.chat_completion(prompt, text, max_tokens)
             summary = response.strip()
 
@@ -321,7 +333,7 @@ class DocumentProcessor:
                 summaries = json.load(f)
 
         if filename not in summaries or not summaries[filename]:
-            doc['summary'] = self.summarizer.summarize(text, max_tokens=500)  # Generate summary once
+            doc['summary'] = self.summarizer.summarize(text, max_tokens=700)  # Generate summary once
             summaries[filename] = doc['summary']
 
             # Save to JSON file
