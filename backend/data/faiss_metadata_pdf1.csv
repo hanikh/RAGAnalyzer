@@ -1,0 +1,3111 @@
+"content","page","embeddings"
+"[Page 1]
+ConocoPhillips
+
+2023 Analyst & Investor Meeting",1,"[ 0.00946221 -0.03220254 -0.00727117 ...  0.00924505  0.02319017
+  0.00657313]"
+"[Page 2]
+Today's Agenda
+Opening
+Strategy and Portfolio
+Alaska and International
+LNG and Commercial
+Lower 48
+Financial Plan
+Closing
+10-Minute Break
+Q&A Session
+Ryan Lance Chairman and CEO
+Dominic Macklon Evp Strategy, Sustainability and Technology
+Andy O’Brien SVP Global Operations
+Bill Bullock EVP and CFO
+Nick Olds EVP Lower 48
+Bill Bullock EVP and CFO
+Ryan Lance Chairman and CEO
+ConocoPhillips 2",2,"[ 0.02532498 -0.02733656 -0.00901461 ...  0.00384303  0.00990031
+  0.01434381]"
+"[Page 3]
+Cautionary Statement
+This presentation provides management's current operational plan for ConocoPhillips over roughly the next decade, for the assets currently in our portfolio, and is subject to multiple assumptions, including, unless otherwise specifically noted:
+* anoil price of $60/BBL West Texas Intermediate in 2022 dollars, escalating at 2.25% annually;
+* anoil price of $65/BBL Brent in 2022 dollars, escalating at 2.25% annually;
+* agas price of $3.75/MMBTU Henry Hub in 2022 dollars, escalating at 2.25% annually;
+* an international gas price of $8/MMBTU Title Transfer Facility & Japan Korea Marker in 2022 dollars, escalating at 2.25% annually;
+* cost and capital escalation in line with price escalation; planning case at $60/BBL WTI assumes capital de-escalation from levels observed in 2022;
+* all production compound annual growth rates (CAGR) are calculated for the 10-year period 2023 — 2032;
+* inclusion of carbon tax in the cash flow forecasts for assets where a tax is currently assessed. If no carbon tax exists for the asset, it is not included in the cash flow forecasts;
+* Cost of Supply displayed in WTI, includes carbon tax where carbon policy exists and a proxy carbon price for assets without existing carbon policies. Please refer to the Cost of Supply definition in the Appendix for additional information on how carbon costs are included
+in the Cost of Supply calculation.
+As a result, this presentation contains forward-looking statements as defined under the federal securities laws. Forward-looking statements relate to future events, plans and anticipated results of operations, business strategies, and other aspects of our operations or
+operating results. Graphics that project into a future date constitute forward-looking statements. Also, words and phrases such as “anticipate,” ""estimate,"" ""believe,"" ""budget,"" ""continue,"" ""could,"" ""intend,"" ""may,"" ""plan,"" “potential,” ""predict,"" ""seek,"" ""should,"" ""will,"" ""would,""
+""expect,"" ""objective,"" ""projection,"" ""forecast,"" ""goal,"" ""guidance,"" ""outlook,"" ""effort,"" ""target"" and other similar words can be used to identify forward-looking statements. However, the absence of these words does not mean that the statements are not forward-looking.
+Where, in any forward-looking statement, the company expresses an expectation or belief as to future results, such expectation or belief is based on management's good faith plans and objectives under the assumptions set forth above (unless noted otherwise) and
+believed to be reasonable as of April 12, 2023, the date of this presentation. These statements are not guarantees of future performance and involve certain risks and uncertainties and are subject to change as management is continually assessing factors beyond our control
+that may or may not be currently known. Given the foregoing and the extended time horizon of this presentation, actual outcomes and results will likely differ from what is expressed or forecast in the forward-looking statements, and such differences may be material
+Factors that could cause actual results or events to differ materially from what is presented include changes in commodity prices, including a prolonged decline in these prices relative to historical or future expected levels; global and regional changes in the demand, supply,
+prices, differentials or other market conditions affecting oil and gas, including changes resulting from any ongoing military conflict, including the conflict between Russia and Ukraine and the global response to such conflict, security threats on facilities and infrastructure, or
+from a public health crisis or from the imposition or lifting of crude oil production quotas or other actions that might be imposed by OPEC and other producing countries and the resulting company or third-party actions in response to such changes; insufficient liquidity or
+other factors, such as those listed herein, that could impact our ability to repurchase shares and declare and pay dividends such that we suspend our share repurchase program and reduce, suspend, or totally eliminate dividend payments in the future, whether variable or
+fixed; changes in expected levels of oil and gas reserves or production; potential failures or delays in achieving expected reserve or production levels from existing and future oil and gas developments, including due to operating hazards, drilling risks or unsuccessful
+exploratory activities; unexpected cost increases, inflationary pressures or technical difficulties in constructing, maintaining or modifying company facilities; legislative and regulatory initiatives addressing global climate change or other environmental concerns; public health
+crises, including pandemics (such as COVID-19) and epidemics and any impacts or related company or government policies or actions; investment in and development of competing or alternative energy sources; potential failures or delays in delivering on our current or
+future low-carbon strategy, including our inability to develop new technologies; disruptions or interruptions impacting the transportation for our oil and gas production; international monetary conditions and exchange rate fluctuations; changes in international trade
+relationships or governmental policies, including the imposition of price caps or the imposition of trade restrictions or tariffs on any materials or products (such as aluminum and steel) used in the operation of our business, including any sanctions imposed as a result of any
+ongoing military conflict, including the conflict between Russia and Ukraine; our ability to collect payments when due, including our ability to collect payments from the government of Venezuela or PDVSA; our ability to complete any announced or any future dispositions or
+acquisitions on time, if at all; the possibility that regulatory approvals for any announced or any future dispositions or acquisitions will not be received on a timely basis, if at all, or that such approvals may require modification to the terms of the transactions or our remaining
+business; business disruptions following any announced or future dispositions or acquisitions, including the diversion of management time and attention; the ability to deploy net proceeds from our announced or any future dispositions in the manner and timeframe we
+anticipate, if at all; potential liability for remedial actions under existing or future environmental regulations; potential liability resulting from pending or future litigation, including litigation related directly or indirectly to our transaction with Concho Resources Inc.; the impact
+of competition and consolidation in the oil and gas industry; limited access to capital or insurance or significantly higher cost of capital or insurance related to illiquidity or uncertainty in the domestic or international financial markets or investor sentiment; general domestic
+and international economic and political conditions or developments, including as a result of any ongoing military conflict, including the conflict between Russia and Ukraine; changes in fiscal regime or tax, environmental and other laws applicable to our business; and
+disruptions resulting from accidents, extraordinary weather events, civil unrest, political events, war, terrorism, cybersecurity threats or information technology failures, constraints or disruptions; and other economic, business, competitive and/or regulatory factors affecting
+our business generally as set forth in our filings with the Securities and Exchange Commission. Unless legally required, ConocoPhillips expressly disclaims any obligation to update any forward-looking statements, whether as a result of new information, future events or
+otherwise. We assume no duty to update these statements as of any future date and neither future distribution of this material nor the continued availability of this material in archive form on our website should be deemed to constitute an update or re-affirmation of these
+figures as of any future date. Any future update of these figures will be provided only through a public disclosure indicating that fact.
+Use of Non-GAAP Financial Information — This presentation includes non-GAAP financial measures, which help facilitate comparison of company operating performance across periods and with peer companies. Any historical non-GAAP measures included herein will be
+accompanied by a reconciliation to the nearest corresponding GAAP measure both at the end of this presentation and on our website at www.conocophillips.com/nongaap. For forward-looking non-GAAP measures, we are unable to provide a reconciliation to the most
+comparable GAAP financial measures because the information needed to reconcile these measures is dependent on future events, many of which are outside management's control as described above. Additionally, estimating such GAAP measures and providing a
+meaningful reconciliation consistent with our accounting policies for future periods is extremely difficult and requires a level of precision that is unavailable for these future periods and cannot be accomplished without unreasonable effort. Forward looking non-GAAP
+measures are estimated consistent with the relevant definitions and assumptions.
+Cautionary Note to U.S. Investors - The SEC permits oil and gas companies, in their filings with the SEC, to disclose only proved, probable and possible reserves. We use terms and metrics such as ""resource"" or “Estimated Ultimate Recovery (EUR)"" in this presentation that
+we are prohibited from using in filings with the SEC under the SEC’s guidelines. U.S. investors are urged to consider closely the oil and gas disclosures in our Form 10-K and other reports and filings with the SEC. Copies are available from the SEC and from the
+ConocoPhillips website.
+ConocoPhillips 3",3,"[ 0.01379209 -0.01290011 -0.01839506 ... -0.0037741   0.00668146
+  0.01751991]"
+"[Page 4]
+    
+ConocoPhillips
+Opening
+Ryan Lance
+Chairman and CEO",4,"[ 0.01564004 -0.02860671 -0.00176991 ...  0.00030991  0.00728775
+  0.00673546]"
+"[Page 5]
+ConocoPhillios Remains the Must-Own E&P Company
+The Macro
+Oil Price ($/BBL WTI)
+120
+100
+
+    
+60 Jind A FRR  _ saeeeeecccceccccccccccccccceceves >
+$60/BBL WT
+Mid-Cycle
+40 Planning Price
+
+2019 2021 2023 2024+
+What You'll Hear Today
+We are committed to
+delivering superior returns
+on and of capital
+through the cycles
+
+We have a deep, durable
+and diverse portfolio
+
+We are progressing our
+2050 Net-Zero ambition and
+accelerating our 2030 GHG emissions
+intensity reduction target
+ConocoPhillips 5",5,"[ 0.01915054 -0.02119497 -0.00373947 ... -0.00866486  0.0048076
+  0.01140407]"
+"[Page 6]
+We Are Committed to Our Returns-Focused Value Proposition
+Triple Mandate Foundational
+Aligned to Business Realities
+a DELIVER
+TRANSITION COMPETITIVE
+PATHWAY DEMAND
+RETURNS
+ACHIEVE
+NET-ZERO
+EMISSIONS AMBITION!
+Scope 1 and 2 emissions on a gross operated and net equity basis.
+Cash from operations (CFO) is a non-GAAP measure defined in the Appendix.
+
+Principles
+aI
+Balance Sheet
+Strength
+ANA WPA
+ww
+‘ined RETURNS On
+Discipline
+Peer-Leading
+Investments Distributions
+ESG
+Excellence
+909
+On
+Deliver Superior Returns
+Through Cycles
+
+Clear and Consistent
+Priorities
+
+Sustain production
+and pay dividend
+
+Annual dividend growth
+
+A-rated balance sheet
+
+>30% of CFO
+shareholder payout
+
+Disciplined investment
+to enhance returns
+ConocoPhillips 6",6,"[ 0.0385067  -0.02164198 -0.00924193 ...  0.003092    0.01045228
+  0.00459692]"
+"[Page 7]
+We Are Continuously Improving ww
+2016 2019 2022 Foundational
+
+$43/BBL WTI $57/BBL WTI $94/BBL WTI Principles
+Return on
+Capital Employed “4% 10% 27% JADA] Peer-Leading
+Ox Distributions
+Return of Capital! $1.11/share $4.45/share $11.73/share and Returns
+
+ra sea 7 se [If saarcgsne
+
+Cash From Operations |
+Free Cash Flow $5B | $0B $12B | $5B $29B | $18B
+Resource ~10 BBOE ~15 BBOE ~20 BBOE Ml Disciplined
+<$40/BBL WTI Investments
+Production 1.6 MMBOED 1.3 MMBOED 1.7 MMBOED
+Emissions Intensity? ~39 ~36 ~22 (ES ESG
+(kg CO,e/BOE) wo Excellence
+‘Defined in the Appendix and presented on a per-share basis using average outstanding diluted shares. @Gross operated GHG emissions (Scope 1 and 2), 2022 is a preliminary estimate.
+Cash from operations (CFO), free cash flow (FCF), net debt and return on capital employed (ROCE) are non-GAAP measures. Definitions and reconciliations are included in the Appendix. ConocoPhillips 7",7,"[ 0.02365037 -0.01184188 -0.00326924 ... -0.00293335 -0.00398485
+  0.01300186]"
+"[Page 8]
+We Have a Compelling 10-Year Plan that Sets us Apart ww
+10-Year Plan ($B)
+2023-2032 Peer leading ROCE improving through time
+$350
+
+$300 Top quartile ordinary dividend growth
+aa
+$250 Upside Sensitivity
+
+$80/B
+    
+ae >90% market cap? distributed
+$200 Distributions
+
+30% of CFO
+$150 ator Distribution ~$35/BBL WTI FCF Breakeven?
+$60/BBL WTI Commitment
+Mid-Cycle
+$100 Planning Price
+
+~6% CFO CAGR, ~11% FCF CAGR
+Capital
+$50
+
+i Unhedged for price upside
+Sources Uses
+‘Cash includes cash, cash equivalents, restricted cash and short-term investments. *Market cap of ~$121B at March 31, 2023, close. *Average over the next 10 years.
+CAGRs calculated from FY2024 at $60/BBL WTI. Cash from operations (CFO), free cash flow (FCF) and return on capital employed (ROCE) are non-GAAP measures. Definitions are included in the Appendix. ConocoPhillips 8",8,"[ 0.02017179 -0.02051535 -0.00647444 ... -0.00209612 -0.00634356
+  0.00402045]"
+"[Page 9]
+  
+wr
+ConocoPhillips
+Strategy and Portfolio
+Dominic Macklon
+EVP Strategy, Sustainability and Technology",9,"[ 0.02154679 -0.00720225 -0.01026813 ... -0.00888077  0.00968578
+  0.00330781]"
+"[Page 10]
+Strategy Powers Our Returns-Focused Value Proposition
+
+a
+Rigorous Capital
+Allocation Framework
+Commitment to
+disciplined reinvestment rate
+
+Cost of Supply analysis
+informs investment decisions
+
+Balance of short-cycle,
+flexible unconventional
+with select longer-cycle,
+low-decline conventional
+Reinvestment rate is a non-GAAP measure defined in the Appendix.
+
+al
+Y
+Differentiated Portfolio
+Depth, Durability and Diversity
+~20 BBOE, <$40/BBL WTI
+low Cost of Supply resource base
+
+Leading Lower 48
+unconventional position,
+complemented with premium
+Alaska and International assets
+
+Strong track record of active
+portfolio management
+ww
+ry
+QO, oO
+Ry,
+Valued Role in the
+Energy Transition
+Accelerating GHG-intensity
+reduction target through 2030
+
+Built attractive
+LNG portfolio
+
+Evaluating longer term
+low-carbon options in
+hydrogen and CCS
+ConocoPhillips 10",10,"[ 0.02421802 -0.02257979 -0.00728318 ... -0.00158414  0.00518902
+  0.01459727]"
+"[Page 11]
+Commitment to Disciplined Reinvestment Rate ww
+Industry ConocoPhillips
+Growth Focus Strategy Reset
+>100% <60%
+Reinvestment Rate Reinvestment Rate
+= 100%
+
+we
+e
+oO
+E
+& 75%
+E
+oO
+a
+s
+c
+c
+< 50%
+oO
+
+
+x
+= 25% ~$75/BBL ~$63/BBL
+a a aa
+. Average Average
+é
+0%
+2012-2016 2017-2022
+® Historic Reinvestment Rate @ Reinvestment Rate at $60/BBL WTI === Reinvestment Rate at $80/BBL WTI
+Reinvestment rate and cash from operations (CFO) are non-GAAP measures. Definitions and reconciliations are included in the Appendix.
+
+Disciplined Reinvestment Rate is the Foundation for Superior
+Returns on and of Capital, while Driving Durable CFO Growth
+~50% ~6% at $60/BBL WTI
+10-Year CFO CAGR Mid-Cycle
+Reinvestment Rate 2024-2032 Planning Price
+     
+_, at $80/BBL
+wTl
+_, at $80/BBL
+wrTl
+at $80/BBL at $60/BBL ETaKS \0YA3151 0
+WTI WTI vam
+2023E 2024-2028 2029-2032
+ConocoPhillips 11",11,"[ 0.00625021 -0.00344387 -0.01045063 ... -0.01020854 -0.001499
+ -0.00354676]"
+"[Page 12]
+Cost of Supply Analysis Informs Investment Decisions ww
+Cost of Supply = Our North Star
+$/BBL WTI Oil Price Required to Achieve a Point-Forward 10% Return
+Fully Burdened Metric eee
+With All Components Rigorously
+Calculated For Each Entity
+     
+hss 440/28
+  
+G&A
+Transport
+Lifting
+Capital OPEX Royalty Taxes Product Mix Differential to WTI WTI CoS
+    
+WTI Cost of Supply ($/BBL)
+Facilities
+Wells
+Low Cost of Supply Wins
+
+Reflecti f ical Permi. I it well.
+eflective of a typical Permian development we ConocoPhillips 12",12,"[-0.01073528  0.0016611  -0.00495942 ...  0.00306598 -0.00669218
+  0.01636348]"
+"[Page 13]
+Secondary Investment Criteria Reinforce Resilient, Durable Returns ww
+Investment Criteria
+¥ VY
+Disciplined Cost of
+Reinvestment Rate Supply
+Returns of capital Returns on capital
+Primary Criteria
+
+Balance of short-cycle, flexible
+unconventional with longer-cycle,
+low-decline conventional
+
+Product mix and market exposure
+
+Secondary Criteria
+Predictable execution
+‘Average anticipated production mix from 2023-2032; oil includes bitumen.
+Reinvestment rate is a non-GAAP measure defined in the Appendix.
+Balanced, Diversified, Disciplined Production Growth
+Production Mix!
+Oil ~55% NGL ~15% North American Gas ~15% International Gas ~15%
+Production (MBOED)
+ 
+2500 wA-5%
+10-Year LNG + Surmont
+Production CAGR ya er NC].
+ 
+2,000
+Conventional
+~3% CAGR
+1,500
+1,000
+Unconventional
+(Lower 48 + Montney)
+~6% CAGR
+500
+
+2023E 2032
+ConocoPhillips 13",13,"[ 0.01450234  0.00277262 -0.01415723 ...  0.0027334  -0.00292753
+  0.01612591]"
+"[Page 14]
+Our Differentiated Portfolio: Deep, Durable and Diverse ww
+~20 BBOE of Resource Diverse Production Base
+Under $40/BBL Cost of Supply 10-Year Plan Cumulative Production (BBOE)
+$50 ~ $32/BBL Reed Alaska
+Average Cost of Supply
+= $40
+a
+S ee
+= $30 EMENA
+Qa
+5 Norway
+S $20
+E Qatar Libya
+$10 UCLA)
+$0
+0 5 10 15 20
+Resource (BBOE) Eagle Ford ae
+W Lower 48 Canada B@ Alaska M@ EMENA lB Asia Pacific
+Costs assume a mid-cycle price environment of $60/BBL WTI.
+ConocoPhillips 14",14,"[ 0.02029391  0.00754438 -0.00161887 ...  0.00564279  0.01067367
+  0.02662995]"
+"[Page 15]
+Strong Track Record of Active Portfolio Management ww
+
+2016 2022
+Production >» 1.6 MMBOED WNS and GkA Montney — Concho and » 1.7 MMBOED
+Working Interest Acreage Shell Permian APLNG
+Consolidations Acquisition Acquisitions — Acquisition
+cstaygatwn > ~10 BBOE | | * 20 BBOE
+2018 2020 2022
+Pcieee > <$40/BBLWT| 9 ey ~ $32/BBL WTI
+2017 2019 2021
+Resource Life » >18 years | | » >30 years
+San Juan Exit U.K. Exit Niobrara and Indonesia
+Emissions Canada Cenovus Australia-West Exit
+Intensity)  ” ~39 kg CO,e/BOE Transaction Exits » ~22 kg CO,e/BOE
+
+Cost of Supply Framework Drives Disciplined Transactions
+~$25B of Both Acquisitions and Divestitures Since 20162
+
+'Gross operated GHG emissions (Scope 1 and 2), 2022 is a preliminary estimate. Dispositions include contingent payment proceeds and sale of CVE shares. ConocoPhillips 15",15,"[ 0.01328712  0.00710277 -0.0056393  ... -0.00578951 -0.00080469
+  0.01603381]"
+"[Page 16]
+Accelerating Our GHG-Intensity Reduction Target Through 2030 ww
+Emissions Reduction Opportunities Pathway to Net-Zero!
+Emissions Intensity (kg CO2e/BOE)
+      
+
+Methane Venting 40
+and Flaring
+
+50 50% Reduction
+Electrification 60% Reduction
+
+- eg 0 {E-————.-——_
+Optimization 2016 2022E 2030 2050
+and Efficiency @ Gross Operated Net Equity
+Near-Term (2025) * Zero routine flaring by 20252
+
+* NEW: Reduce GHG intensity 50-60% (from 40-50%)?
+* Near-zero methane intensity target <1.5 kg CO,e/BOE
+Strategic Pilots
+and Studies
+Medium-Term (2030)
+
+Long-Term (2050) * Net-zero emissions ambition’
+Progressing Toward Net-Zero Ambition
+
+Scope 1 and 2 emissions on a gross operated and net equity basis. 2In line with the World Bank Zero Routine Flaring initiative, ConocoPhillips premise is five years earlier than World Bank 2030 goal.
+3Reduction from a 2016 baseline. ConocoPhillips 16",16,"[ 0.01550412 -0.02716912 -0.01120649 ...  0.00206916  0.00953562
+  0.01420628]"
+"[Page 17]
+LNG: A Crucial Fuel for Energy Transition
+U.S. Electric Power Sector Emissions
+Drop with Shift from Coal to Natural Gas!
+
+ome 51% ¥ >30% Reduction
+8 6 inCO
+55 2 e in CO2 emissions 599
+@G 40% 2 2
+£9 = e Total
+Yn
+25 20x a 1,750
+3 Gas S =
+m 0% =~ ———— ———__ 1,000
+2001 2021 2001 2021
+U.S. LNG Reduces Carbon Intensity of Electricity?
+1,200
+< oO .
+= >40% Reduction
+7 B00 in lifecycle GHG emissions
+oo when switching from domestic
+a, coal to imported LNG
+Oo 400
+O
+Do
+”
+
+Germany, Germany,
+Domestic Coal U.S. Permian LNG
+MT
+MTPA
+9,000
+7,000
+5,000
+3,000
+750
+500
+250
+ww
+Global Coal Consumption
+Has Yet to Definitively Peak
+2000 2010 2020
+Strong LNG Growth Outlook*
+>300
+MTPA Supply
+Gap by 2050
+Under Construction
+Operational
+
+2022 2050
+1U.S E.1.A Power Plant Operations Report. 2IEA, Global Coal Consumption, 2000-2025. 3ICF International, Update to the Life-Cycle Analysis of GHG Emissions for US LNG Exports. ‘Source Wood Mackenzie Q4 2022.
+ConocoPhillips 17",17,"[ 0.02619984  0.00683011 -0.0085623  ... -0.00179039  0.01919217
+  0.03024029]"
+"[Page 18]
+10-Year Plan Reflects Durable Returns-Focused Value Proposition ww
+Capital ($B)
+
+   
+~$11B
+12 2023 Capital
+
+
+
+
+2023E 2024-2028 2029-2032
+Average Average
+Production (MBOED)
+2,500 ~4-5%
+10-Year
+2,000 Production CAGR
+1,500
+1,000
+500
+
+2023E 2024-2028 2029-2032
+Average Average
+Free cash flow (FCF) is a non-GAAP measure defined in the Appendix.
+
+
+
+FCF ($B)
+$80/BBL
+aa
+Upside Sensitivity
+$60/BBL
+WTI
+Mid-Cycle
+Planning Price
+
+2023E 2024-2028 2029-2032
+Average Average
+>$115B FCF ~$35/BBL WTI FCF
+Over the Next 10 Years Breakeven
+at $60/BBL WTI Average Over the Next 10 Years
+ConocoPhillips 18",18,"[ 0.00855499  0.00138389 -0.00686334 ...  0.00237294  0.00023613
+ -0.00142164]"
+"[Page 19]
+ 
+wr
+ConocoPhillips
+Alaska and International
+Andy O’Brien
+SVP Global Operations",19,"[ 0.0259556  -0.02712715 -0.00523897 ... -0.01135248 -0.00896813
+  0.0129283 ]"
+"[Page 20]
+Alaska and International: Our Unique Diversification Advantage ww
+cS
+
+
+Portfolio Diversification High-Margin Production Growth Significant Free Cash Flow
+~9 BBOE, <$40/BBL WTI World-class Qatar LNG resource expansion Low reinvestment rate underpins
+Cost of Supply resource base builds upon 20-year relationship distribution capacity
+Leveraging existing infrastructure Progressing Montney unconventional High-value, Brent-linked
+across conventional assets toward development mode production
+Low-decline, low capital-intensity Investing for the future with the Delivering value with additional
+LNG and Surmont high-margin Willow project APLNG shareholding interest
+
+Free cash flow (FCF) and reinvestment rate are non-GAAP measures defined in the Appendix.
+ConocoPhillips 20",20,"[ 0.02687017 -0.00509817 -0.00760047 ...  0.00074103 -0.00213814
+  0.01267016]"
+"[Page 21]
+Low Capital Intensity Production Growth ww
+  
+Material Low Cost of Supply Resource Base Capital-Efficient Production Growth
+Leveraging Existing Infrastructure Underpins Growing Distribution Capacity
+a Production Mix!
+uctl xX
+~ $30/BBL Oil ~60% NGL ~5% North American Gas ~5% International Gas ~30%
+Average
+$40 Cost of Supply 1,200
+a @ 1,000
+& $30 fe
+© 800
+2 =
+a S 600
+So $20 ¥
+B $8 400
+Y a
+= 0 200
+
+2023E 2024-2028 2029-2032
+$0 Average Average
+0 3 6 9 LNG @ Surmont HM Montney M&M Conventional International lM Alaska
+Resource (BBOE)
+MLNG = W®Surmont MH Montney Conventional international Ill Alaska yA CAG 4 hi ~40% Rei nvestment Rate
+Over the Next 10 Years at $60/BBL WTI
+
+‘Average product mix from 2023-2032, oil includes bitumen.
+Reinvestment rate is a non-GAAP measure defined in the Appendix. ConocoPhillips 21",21,"[ 0.01202395  0.02187198 -0.0009701  ... -0.00134383 -0.01126641
+  0.0210822 ]"
+"[Page 22]
+LNG: Expanding World-Class Assets ww
+Qatargas 3
+* Legacy position supplying Asian and European markets
+North Field Expansion Projects
+* Building on our 20-year relationship with Qatar
+¢ Awarded 2 MTPA net; NFE first LNG in 2026 and NFS in 2027
+¢ NFE and NMFS add trains 15-20 in Qatar's LNG portfolio
+
+Expanding LNG Production APLNG
+300
+= * 90% of volumes under long-term contracts
+8 200 * Increased shareholding interest by 10% in 1Q 2022; expecting to
+= recoup ~50% of purchase price by end of 2Q 2023
+
+8 ee * Acquiring up to an additional 2.49% shareholding interest and
+& preparing to take over upstream operatorship upon Origin Sale!
+
+
+2023E 2024-2028 2029-2032
+Average Average Growing Reliable LNG Cash Flows
+M APLNG HB QG3 @ Qatar Expansion
+
+'Subject to ElG closing its announced acquisition of Origin Energy (the current upstream operator); EIG’s transaction with Origin, as well as ConocoPhillips’ shareholding acquisition are subject to
+Australian regulatory approvals and other customary closing conditions. The 2.49% purchase is also subject to shareholder's pre-emptive rights. ConocoPhillips 22",22,"[-0.00634756  0.0259768  -0.00780142 ...  0.01151359  0.01794913
+  0.01856922]"
+"[Page 23]
+Surmont: Leveraging Low Capital Intensity for Decades of Flat Production
+Optimizing
+the Machine
+* Record 2H 2022 production
+* Low sustaining capital requirements
+« Advantaged operating cost due to
+top-quartile steam-oil ratio
+Production (MBOED)!
+RECORD
+80 LAST PRODUCTION
+NEW PAD
+
+
+
+
+2016 2018 2020 2022
+Production Records Achieved
+Through Optimization
+'Net before royalty shown to remove price related royalty impacts. @Includes drill, completions and facilities (excluding pipelines). 3Net equity Scope 1 and 2 emissions.
+First New Pad Drilled Since 2016
+Developed at <$15/BBL WTI CoS
+24 Well Pairs with 25 MBOED Gross Peak Rate
+ 
+eh ae
+Average Well Cost? ($MM)
+Decreased
+4 30%
+2016 Pads Pad 267
+
+Raises Production Plateau
+into 2030s
+
+ww
+Transformative Emissions
+Reduction? Opportunities
+* 1/3 through current technology pilots
+* 1/3 through new technologies
+* CCS and offsets to achieve net-zero
+Emissions Reduction Pathway
+(Net MMTeCOse)
+  
+ 
+CCS &
+OFFSETS
+ 
+2023 2050
+Multiple Options for
+Emissions Reduction
+ConocoPhillips 23",23,"[ 0.01699842  0.0122953  -0.00835224 ...  0.00437978  0.00574873
+  0.01894686]"
+"[Page 24]
+Montney: Building Another Core Unconventional Business ww
+Appraisal Defined Optimal Plan Moving to Development Phase Significant Production Growth
+* Concluded testing of multiple well ¢ Adding second rig in 2024 * 60% liquids production, priced off WTI
+* Running one continuous frac crew * Long-term commercial offtake secured
+* Refining completion design
+* CPF2 start-up expected in 3Q 2023
+configurations and completion designs
+* Recent strong well results lead to high-
+graded, two-layer development plan
+  
+Cost of Supply Improvement Production
+($/BBL WTI) (MBOED)
+150
+Driving to
+40 Mid-$30s CoS
+100
+
+0 0
+Current Development 2023E 2024-2028 2029-2032
+Pads Phase Average Average
+High-Graded Resource of Leveraging 20% CAGR
+1.8 BBOE at Mid-$30s CoS Unconventional Expertise Over 10 Years
+ConocoPhillips 24",24,"[ 0.02469905  0.02909591 -0.0153224  ... -0.0086938  -0.00038931
+  0.02186773]"
+"[Page 25]
+International Conventional: Steady Cash Flow Generator ww
+Brent-Linked Oil and International Gas
+Norway — 115 MBOED
+¢ Four subsea tie backs on track for onstream in 2024
+* Greater Ekofisk Area license extended through 2048
+Libya - 50 MBOED
+* Increased working interest to ~20% in Waha Concession
+* Long-term optionality
+
+Malaysia — 40 MBOED
+
+Production (MBOED) * Low Cost of Supply projects offsetting decline
+China - 30 MBOED
+200 * Production sharing contract terms aligned to 2039
+* Progressing offshore windfarm in China
+100
+0 Cad
+—_ 024.2024 029.0028 $1B Per Year Free Cash Flow
+Average Average Over the Next 10 Years at $60/BBL WTI
+
+Country production numbers quoted are 2023 estimates.
+Free cash flow (FCF) is a non-GAAP measure defined in the Appendix. ConocoPhillips 25",25,"[ 0.00151254  0.01148233 -0.00012573 ... -0.00109172 -0.00538742
+ -0.00191609]"
+"[Page 26]
+Alaska Conventional: Legacy World-Class Basin ww
+
+Ww Western Greater Prudhoe Bay
+, North Slope Kuparuk Area Non-operated
+National Petroleum ~? 2000 \ 1981 1077
+Reserve — Alaska An
+Central Process i isti
+© a (ome Roce Leveraging Existing Infrastructure
+    
+a ea hetenee * Largest producer, with 40+ years of
+experience across significant infrastructure
+
+Opportunity
+Reservoir Extent
+
+_ * Robust inventory of projects with a
+— Pipeline System ~$25/BBL Cost of Supply for over a decade
+A Future Project
+  
+N Alaska State
+Pt ve Disciplined Development Plan
+100% of Production Priced at Brent+
+New pads Drilling from
+filling existing ~ $1 B existing pads
+= 20 seregy Capex J 22. cone
+5 E News per Year Kuparuk, Torok
+=
+6 100
+g
+ToT
+°
+“ 0
+2023E 2024-2028 2029-2032 40+ Years Later, ~2-3% Production Growth
+Average Average Over the Next 10 Years
+
+Alaska conventional excluding Willow.
+ConocoPhillips 26",26,"[ 0.00882832 -0.01375821 -0.00941308 ...  0.01023338 -0.00985166
+  0.03414375]"
+"[Page 27]
+Willow: Building on Our Long History ww
+
+  
+Western Greater Prudhoe Bay
+North Slope Kuparuk Area Non-operated . ee .
+Nee datt 2000 oe ‘97 @ a Central Processing Significant Opportunity
+Facility (CPF)/Project Wi h “M Pp . "" Ri k
+ConocoPhillips ithout Mega-Project Risks
+Interest Acreage
+Opportunity Extensive Definition
+Reservoir Extent
+100% FEED complete at FID
+— _ Pipeline System
+@A Future CPF/Project
+Simple Governance
+Willow Interest Acreage
+
+/\ ee etic 100% ConocoPhillips owned
+Miles
+Legacy Infrastructure Willow Se
+No “first-of-a-kind” designs
+. 13 1
+Ge . oyu: . +)
+ig Central Processing Facilities Central Processing Facilit .
+oe 9 hci Proven Execution Model
+
+~ 1 20 3 Executed similar drill site, pipeline
+aie cae and road scope over past five years
+See Se with proven North Slope contractors
+~41 0 ~26 Modular facilities designed and built
+Nilecton@en ten Milles of Gonitdlor in U.S. by top-tier Gulf Coast contractors
+Road and Pipelines Road and Pipelines
+ConocoPhillips 27",27,"[ 0.00310995 -0.00293424 -0.00669429 ... -0.00725654 -0.00889497
+  0.02962355]"
+"[Page 28]
+Willow: Delivering Competitive Returns Into the Next Decade ww
+Capex of $1-1.5B per Year from 2024-2028 Volume Ramp and
+Strong Margins Drive FCF
+        
+Drill sites Central . ;
+and drilling processing Pre-drilling strategy fills facility at startup
+facility
+
+Premium-quality light crude
+compared to current Alaska average
+$7-7.5B
+to First Oil
+Infrastructure,
+roads, pipelines,
+power and pads
+
+Leverages existing pipeline infrastructure
+Production (MBOED)
+400
+Key Construction Milestones Willow:
+Willow
+2023 2024 2025 2026 2027 2028 2029 100% Oil
+   
+200
+Winter road and Central processing facility First
+pipeline construction fabrication and delivery Oil
+Operation center Complete tie-ins to
+fabrication and new drill sites and 0
+delivery existing infrastructure 2023E 2024-2028 2029-2032
+Central processing Commence Average Average
+facility procurement drilling program Legacy Alaska im Willow
+Free cash flow (FCF) is a non-GAAP measure defined in the Appendix.
+ConocoPhillips 28",28,"[-0.01089905  0.00855831 -0.00674587 ...  0.00317787 -0.00462051
+  0.02371619]"
+"[Page 29]
+Alaska and International: Our Unique Diversification Advantage ww
+Capital ($8) FCF ($B)
+° 15 ne oF
+4 . soy ii
+; ; <> b
+ee
+NZ
+: UF ek TrelM Tashan Na
+   
+
+2023E 2024-2028 2029-2032
+Average Average
+. 5 $60/BBL
++200 Production (MBOED) WTI
+Mid-Cycle
+1,000 Planning Price
+800
+600 0
+2023E 2024-2028 2029-2032
+400 Average Average
+200
+0 >$50B FCF and ~40% Reinvestment Rate
+2023E 2024-2028 2029-2032
+Average Average (Oars the Next 10 Years at $60/BBL Avan
+
+Free cash flow (FCF) and reinvestment rate are non-GAAP measures defined in the Appendix.
+ConocoPhillips 29",29,"[ 0.00887774 -0.02098374 -0.00826245 ...  0.00536979 -0.00916541
+  0.01171446]"
+"[Page 30]
+  
+wr
+ConocoPhillips
+LNG and Commercial
+Bill Bullock
+EVP and CFO",30,"[ 0.02339408 -0.03993633 -0.00761042 ...  0.0033994   0.00142236
+  0.01745583]"
+"[Page 31]
+LNG Opportunities Underpinned by Strong Commercial Acumen ww
+Rapidly Growing Adding North America to Extensive Commercial
+LNG Market Low-Cost LNG Footprint Footprint
+
+Robust demand in Asia and Europe
+driven by energy security and
+the energy transition
+Port Arthur is a premier
+LNG development Global market presence
+
+Qatar and Australia are Long-term optionality on the Second-largest natural gas
+foundational LNG investments Gulf and West Coasts marketer in North America!
+North American gas production Offtake margins enhanced
+fuels LNG supply growth by diversion capability bi yeals Bxperietee with LNG
+
+‘Natural Gas Intelligence North American Marketer Rankings as of Q3 2022, published in December 2022.
+ConocoPhillips 31",31,"[ 0.01577793  0.00847    -0.01415759 ...  0.01253724  0.00743887
+  0.02620381]"
+"[Page 32]
+Attractive Global LNG Portfolio ww
+Key LNG Supply and Demand Markets by 2035 ConocoPhillips Global Net LNG Exposure
+(MTPA)! 7 (MTPA)
+PA LNG?
+
+    
+@ 10
+European NFE/NFS
+Re-G
+West Coast Port Arthur ° “® 5 QG3
+Optionality?_ LNG Qatar
+6 0--- ee = ee U7 \@. APLNG
+Saas 0
+Wr------- 4 @ 2023 2028 2032
+@ australia Pacific LNG eo ConocoPhillips Net LNG Capital Spend ($B)
+est 01
+World D
+@ Supply @ Demand ~$3.7B
+sane Cumulative Capital
+ConocoPhillips Assets at Nexus of Supply and Demand 1
+* Asia and Europe to remain significant demand centers
+* Qatar and Australia provide reliable LNG 0
+* North America dominates LNG supply growth 203 erage. Wes
+‘Wood Mackenzie Q4 2022, North America as marginal supplier. 2Offtake and/or equity at Energia Costa Azul (ECA) Phase 2 and offtake from ECA Phase 1
+35 MTPA offtake and access to excess cargoes when Phase 1 liquefaction exceeds the 10.5 MTPA contracted under long term SPAs. ConocoPhillips 32",32,"[ 0.00037132  0.00801549 -0.00763687 ...  0.01075446  0.00281549
+  0.02239505]"
+"[Page 33]
+Port Arthur is a Premier LNG Development ww
+  
+¢ zl POX Vigan. FID of Port Arthur Phase 1
+< : - i ™~ ; * FERC-approved and construction-ready with high-quality operator and EPC contractor
+a J ORR * ConocoPhillips to manage gas supply
+Nee : ¢ Near Gulf Coast infrastructure and fastest growing low-cost, low-GHG gas basins
+ya ’ * ConocoPhillips participation launched project
+WestCoast me og Strategic Optionality
+\ XP ! \ * Access to low-cost uncontracted excess capacity
+x =z a
+
+* Secured long-term optionality on the Gulf and West Coasts!
+* Prioritizing market development and offtake over additional equity
+* Evaluating development of CCS projects at Port Arthur facility
+Low-Cost Offtake Secured
+¢ 5 MITPA offtake from Port Arthur Phase 12
+* Top tier liquefaction fee?
+* Marketing currently underway; receiving significant customer interest
+'Offtake and/or equity on up to six additional trains at Port Arthur, offtake and/or equity at ECA Phase 2, and offtake from ECA Phase 1.
+220-year agreement. *>Wood Mackenzie Q4 2022, contract fixed liquefaction fees. ConocoPhillips 33",33,"[ 0.01176402  0.02800312 -0.00698383 ...  0.01472198  0.01392528
+  0.03590231]"
+"[Page 34]
+ConocoPhillips Commercial Advantage
+Port Arthur LNG Marketing Example: Sale into Germany
+European
+Re-Gas ©
+* ConocoPhillips holds re-gas capacity in Germany's first
+onshore LNG terminal for portion of Port Arthur LNG
+* Captures Trading Hub Europe (THE) price with diversion
+capability when other international prices exceed THE
+* Managed and marketed by experienced ConocoPhillips
+commercial organization
+  
+a 4 , Global Gas,
+Power and LNG
+Roenmuzen LNG
+Licensing?
+o- Global Crude
+f° and NGL
+1FY2022 data unless otherwise footnoted. *Based on total global installed production capacity of 113 MTPA associated with 26 licensed LNG trains in operation.
+9x Equity
+Gas marketed
+globally
+113 MTPA
+6.0 GWh
+Power marketed
+24 Largest
+Utilizing Optimized Global LNG
+Cascade® Process
+25 Cargoes
+Marketed globally
+per month
+technology provider
+45%
+Brent-linked
+ww
+Global Marketing Presence: >10 BCFD and >1 MMBOD!
+London
+Singapore
+Houston
+Calgary
+Beijing
+Tokyo
+~1 MTPA
+Spot sales
+into Asia
+180 MBOD
+North American
+export capacity
+ConocoPhillips 34",34,"[ 0.00881497 -0.01063076 -0.01715    ...  0.00560735  0.01275851
+  0.01211059]"
+"[Page 35]
+   
+ConocoPhillips
+  
+Lower 48
+Nick Olds
+EVP Lower 48",35,"[ 0.03244171 -0.05450708 -0.00210184 ...  0.00426618  0.00276598
+  0.00773538]"
+"[Page 36]
+Premier Lower 48 Assets Underpin Our Returns-Focused Strategy ww
+UNY
+Industry Leader Focused
+on Maximizing Returns
+Largest Lower 48 unconventional
+producer with deep, durable and
+diverse unconventional portfolio
+
+Disciplined development optimizing
+returns and recovery
+Free cash flow (FCF) is a non-GAAP measure defined in the Appendix.
+
+Sy
+Production and Free Cash Flow
+Growth into the Next Decade
+Permian premising
+~7% production growth, doubling
+free cash flow by end of decade
+
+Eagle Ford and Bakken
+delivering material free cash flow
+
+al
+—_— 7
+Delivering Continuous
+Improvements
+Accelerating technology
+across four core basins
+to enhance value
+
+Delivering on emissions reductions
+and sustainable development
+ConocoPhillips 36",36,"[ 0.03527142  0.01313162 -0.00904782 ...  0.00620501 -0.01164877
+  0.00601073]"
+"[Page 37]
+Deep, Durable and Diverse Portfolio with Significant Growth Runway yr
+2022 Lower 48 Unconventional Production’ (MBOED) +50
+1,200 ~$32/BBL
+1,000 ape Average
+$40 Cost of Supply
+  
+800
+600
+400
+$30
+200
+Net Remaining Well Inventory? *20
+WTI Cost of Supply ($/BBL)
+15,000
+ConocoPhillips
+12,000 $10
+9,000
+6,000
+$0
+0 2 4 6 8 10
+Resource (BBOE)
+M@ Delaware Basin M& MidlandBasin ™ Eagle Ford @ Bakken @ Other
+3,000
+
+
+Largest Lower 48 Unconventional Producer, Growing into the Next Decade
+
+'Source: Wood Mackenzie Lower 48 Unconventional Plays 2022 Production. Competitors include CVX, DVN, EOG, FANG, MRO, OXY, PXD and XOM, greater than 50% liquids weight. Source: Wood Mackenzie (March 2023), Lower 48
+onshore operated inventory that achieves 15% IRR at $50/BBL WTI. Competitors include CVX, DVN, EOG, FANG, MRO, OXY, PXD, and XOM. ConocoPhillips 37",37,"[ 0.0241846  -0.00228309 -0.01394719 ...  0.01254221  0.0017434
+  0.01529692]"
+"[Page 38]
+Delaware: Vast Inventory with Proven Track Record of Performance ww
+. Prolific Acreage Spanning Over
+| 659.000 Net Acres! 12-Month Cumulative Production? (BOE/FT)
+| Mexico | ; ~ 1
+
+  
+   
+| 40 2022
+Texas } 30 5019
+“, on”
+os zi ~30%
+a) ‘lp Improved Performance
+Total from 2019 to 2022
+10-Year Operated
+Permian Inventory 0
+1 2 3 4 5 6 7 8 8) 10 11 12
+Months
+Delaware Basin Well Capex/EUR? ($/BOE)
+65% - 25
+Bi Delaware Basin 20
+Midland Basin
+
+Low High
+EE A sCCost of Supply?
+ 
+wy
+1Q ConocoPhillips
+High Single-Digit Production Growth 0
+
+‘Unconventional acres. @Source: Enverus and ConocoPhillips (March 2023). ?Source: Enverus (March 2023) based on wells online year. “Source: Enverus (March 2023). Average single well capex/EUR. Top eight public operators based on
+wells online in years 2021-2022, greater than 50% oil weight. COP based on COP well design. Competitors include: CVX, DVN, EOG, MTDR, OXY, PR and XOM. ConocoPhillips 38",38,"[ 0.01799801  0.00935664 -0.00796354 ...  0.0083087  -0.00527714
+  0.0112945 ]"
+"[Page 39]
+Midland: Acreage in the Heart of Liquids-Rich Basin ww
+High-Margin Play Spanning Over
+  
+   
+ 
+
+New }
+| Mexico | | ~251,000 Net Acres’ -
+7 \ Texas . Pe... om
+~~, 20
+
+Sw) 10
+Total
+10-Year Operated
+Permian Inventory 0
+35%
+AS
+\ L 25
+Delaware Basin 20
+@ Midland Basin
+Low High 15
+EE Es Cost of Supply? 16
+>
+Low to Mid Single-Digit Production Growth 0
+
+‘Unconventional acres. Source: Enverus and ConocoPhillips (March 2023). 2Source: Enverus (March 2023) based on wells online year.
+12-Month Cumulative Production? (BOE/FT)
+2020-2022
+  
+2019
+~6%
+Improved Performance
+from 2019 to 2022
+1 2 3 4 5 6 7 8 9 10 11 12
+Months
+Midland Basin Well Capex/EUR4 ($/BOE)
+wy
+ConocoPhillips
+
+4Source: Enverus (March 2023). Average single well capex/EUR. Top eight public operators based on wells online in years 2021-2022, greater than 50% oil weight. Competitors include FANG, OVV, OXY, PXD, SM, VTLE and XOM. ConocoPhillips 39",39,"[ 0.04419623  0.00568393 -0.00789878 ...  0.00362849 -0.00763031
+  0.0137505 ]"
+"[Page 40]
+Continuously Optimizing Permian Acreage and Value ww
+
+  
+Acreage Trades Permian-Operated Inventory
+Illustration Trade Area Complementary Positions Enable
+Pre-Trade Post-Trade tid Trade and Core-Up Opportunities
+~30-40% Cost of Supply Improvement
+
+| | | | 1, “_"" from Lateral-Length Extensions
+oo
+a - REEVES °
+ConocoPhillips Acreage MM Trade-in M™ Trade-out : — 60 %
+2 miles
+Recent Acreage Trade Metrics ~20% or greater
+1.5 miles
+oO oO
+f2x | 330% | 330% to.2 mies
+Lateral Length Capex/FT Cost of Supply
+
+Vast Long-Lateral Inventory Enhances Returns and Durability
+
+ConocoPhillips 40",40,"[ 0.01273416  0.00976879 -0.01028561 ...  0.0121072  -0.00093992
+  0.02514637]"
+"[Page 41]
+Permian Drives Free Cash Flow in Lower 48 ww
+   
+% 50% WS} 35
+éil| ~ 7% SY ~50% = ie <$35,BBL
+10-Year Production CAGR RY) Reinvestment Rate’ |__| Program Cost of Supply
+Production (MBOED) FCF ($B)
+1,500 : $12 A5B FCF
+Growing to Plateau Ger $45 ""Over
+j nd
+1,200 in the 2"" Decade $10 the Next 10 Years
+at $60/BBL WTI
+$8
+900
+$6
+600
+$4
+300 $2
+0 $0
+2023E 2024-2028 2029-2032 2023E 2024-2028 2029-2032
+Average Average Average Average
+@ $60/BBL WTI Mid-Cycle Planning Price @ $80/BBL WTI Upside Sensitivity
+Top-Tier Permian Position, Growing into the Next Decade
+
+‘Over the next 10 years at $60/bbl
+Reinvestment rate and free cash flow (FCF) are non-GAAP measures defined in the Appendix. ConocoPhillips 41",41,"[-0.00521709  0.0202412   0.00475848 ...  0.00311614 -0.0086076
+  0.01434601]"
+"[Page 42]
+Eagle Ford and Bakken Delivering Material Free Cash Flow ww
+   
+~199,000 Net Acres'in Eagle Ford § Consistent and Proven Track Record Sustains Production
+~560,000 Net Acres! in Bakken in Basin Sweet Spots Over the Decade
+; | x0 Eagle Ford Well Capex/EUR? ($/BOE) Production (MBOED)
+400
+
+~ 300
+ConocoPhillips
+
+200
+
+100
+6 Bakken Well Capex/EUR? ($/BOE) 0
+2023E 2024-2028 2029-2032
+Average Average
+10, a
+‘onocoPhillips Bakken Mi Eagle Ford
+
+ewe ; Delivers ~$20B FCF
+HE GE Cost of Supply? Over the Next 10 Years at $60/BBL WTI
+
+‘Unconventional acres. 2Source: Enverus and ConocoPhillips (March 2023). ?Source: Enverus (March 2023); Average single well capex/EUR; Top eight public operators based on wells online in vintage years 2019-2022, greater than
+50% oil weight; Competitors include: BP, CHK, CPE, DVN, EOG, MGY and MRO. ‘Source: Enverus (March 2023); Average single well capex/EUR; Top eight operators based on wells online in vintage years 2019-2022, greater than 50%
+oil weight; Competitors include CHRD, Continental, DVN, ERF, HES, MRO and XOM.
+Free cash flow (FCF) is a non-GAAP measure defined in the Appendix. ConocoPhillips 42",42,"[ 0.02626551  0.00877896 -0.01115808 ... -0.00176352 -0.01973085
+ -0.00035984]"
+"[Page 43]
+Enhancing Value and Lowering Emissions through Technology ww
+Drilli
+w
+ng
+      
+Real-time analytics
+improve curve build
+time by 20% in Eagle Ford
+
+Permian drilling efficiencies!
+improved ~50% since 2019
+1Permian drilling efficiencies defined as measured depth (feet) per day.
+
+Completions
+
+Dual fuel and E-frac
+reduce emissions ~10% to ~40%
+compared to diesel
+
+>50% of Permian completions
+to be Simulfrac'd in 2023
+  
+Operations
+poe
+ae
+baby zovar call
+Real-time intelligent
+production surveillance, automation
+and process optimization
+
+Drone-based surveillance increases
+inspection frequency
+ConocoPhillips 43",43,"[ 0.02393111  0.00543343 -0.01341618 ... -0.00017503  0.0025665
+  0.02721005]"
+"[Page 44]
+Delivering on Emissions Reductions and Sustainable Development ww
+  
+Lower 48 GHG Intensity! (kg CO,e/BOE) Lower 48 Associated Gas Flaring? (%) Permian Recycled Frac Water (%)
+28 1.7% 52%
+J ~50% ~80% >3X
+Reduction Reduction Increase
+     
+2019 20227 2019 2022? 2019 2022
+Focused Plans to Further Reduce Emissions and Maximize Water Reuse
+@ fo E A O
+Reducing Improving Electrifying Optimizing Water
+Methane and Flaring Facilities Design Compression D&C Power Conservation
+‘Gross operated GHG Emissions (Scope 1 and 2). ?Preliminary estimates. Includes Permian, Eagle Ford and Bakken only. 2Excludes safety, assist gas, pilot gas, tanks and emergency shutdown flaring.
+    
+ConocoPhillips 44",44,"[ 0.02227199 -0.00671275 -0.01042734 ...  0.00280347  0.0080444
+  0.03052665]"
+"[Page 45]
+Significant Free Cash Flow Growth Over the Decade
+Capital ($B)
+
+
+
+
+
+
+2023E 2024-2028 2029-2032
+Average Average
+Production (MBOED)
+1,600
+1,200
+800
+400
+
+2023E 2024-2028 2029-2032
+Average Average
+Reinvestment rate and free cash flow (FCF) are non-GAAP measures defined in the appendix.
+FCF ($B)
+$80/BBL
+""9 ‘an
+UF este l-ms\ra ahaa
+5 $60/BBL
+WTI
+Mid-Cycle
+Planning Price
+
+2023E 2024-2028 2029-2032
+Average Average
+~$65B FCF and ~50% Reinvestment Rate
+Over the Next 10 Years at $60/BBL WTI
+
+ConocoPhillips 45",45,"[ 0.00281442  0.00739959 -0.00517151 ... -0.00182644 -0.01202385
+ -0.00805238]"
+"[Page 46]
+   
+ConocoPhillips
+Financial Plan
+Bill Bullock
+EVP and CFO",46,"[ 0.02698875 -0.04988783 -0.00571696 ...  0.0064428   0.00757059
+ -0.0059355 ]"
+"[Page 47]
+A Financial Plan with Durability of Returns and Cash Flow Growth
+i
+Consistent Returns
+on and of Capital
+Peer-leading ROCE
+improving through time
+
+CFO-based distribution framework
+with compelling shareholder returns
+ICAGR calculated from FY2024 at $60/BBL WTI.
+of
+Cash Flow Growth
+into the Next Decade
+~6% CFO CAGR'
+through the plan
+
+Disciplined capital investment
+accelerates FCF growth
+Return on capital employed (ROCE), cash from operations (CFO) and free cash flow (FCF) are non-GAAP measures defined in the Appendix.
+ww
+Battle-Tested
+Financial Priorities
+A-rated balance sheet
+resilient through cycles
+
+Stress-tested
+financial durability
+ConocoPhillips 47",47,"[ 0.01630401 -0.00860052 -0.0123303  ... -0.01336898 -0.005575
+ -0.00896249]"
+"[Page 48]
+Committed to Top-Quartile Returns on Capital ww
+Five-Year Average ROCE! Earnings ($B) .
+Peer-Leading ROCE Performance Low Cost of Supply Investments Fuel Expanding Margins
+
+16% ~10% CAGR
+2024-2032 at $60/BBL WTI
+
+w 20
+ConocoPhillips
+14%
+
+12%
+
+5 2023E 2024-2028 2029-2032
+10% Average Average
+a5; Return on Capital Employed (ROCE)
+Near-Term Delivery of S&P 500 Top-Quartile ROCE
+  
+40%
+6%
+30%
+4% 20% S&P 500 Top Quartile?
+10%
+2%
+0%
+2023E 2024-2028 2029-2032
+0,
+0% Average Average
+Independent Peers? M@ Integrated Peers? @ $60/BBL WTI Mid-Cycle Planning Price @ $80/BBL WTI Upside Sensitivity
+‘Source: Bloomberg Return on Capital 2018 through 2022. @Integrated peers include CVX and XOM. Independent peers include APA, DVN, EOG, HES, OXY and PXD. Represents top quartile of five-year average ROCE (2018-2022)
+for constituents as of December 31, 2022.
+Earnings refers to net income. Return on capital employed (ROCE) is a non-GAAP measure defined in the Appendix. ConocoPhillips 48",48,"[ 0.02081013 -0.00773594 -0.00866335 ...  0.00590374 -0.00111779
+  0.00177753]"
+"[Page 49]
+Cash Flow Growth into the Next Decade ww
+Cash From Operations ($B) Free Cash Flow ($B)
+40 40
+~6% CAGR
+30 2024-2032 at $60/BBL WTI 6
+~11% CAGR
+2024-2032 at $60/BBL WTI
+   
+20 20
+10 »
+0 0
+2023E 2024-2028 2029-2032 2023E 2024-2028 2029-2032
+Average Average Average Average
+@ $60/BBL WTI Mid-Cycle Planning Price @ $80/BBL WTI Upside Sensitivity
+~$3.5B of Annual CFO is from >$115B FCF Available
+Longer-Cycle Projects! for Distribution
+2029-2032 Average at $60/BBL WTI Over the Next 10 Years at $60/BBL WTI
+12029-2032 annual average CFO from longer-cycle projects of ~$5B at $80/BBL WTI. Longer-cycle projects are Willow, Port Arthur LNG Phase 1 and North Field Expansions.
+Cash from operations (CFO) and free cash flow (FCF) are non-GAAP measures defined in the Appendix. ConocoPhillips 49",49,"[-0.00019553  0.0160775  -0.00559034 ... -0.00415348 -0.0145985
+ -0.00065617]"
+"[Page 50]
+CFO-Based Framework Delivers Leading Returns of Capital ww
+Five-Year Distribution as % of CFO! Five-Year Distribution Yield?
+Consistent Execution on Our Priorities Track Record of Leading Distributions
+50% 8%
+40%
+6%
+30%
+4%
+20%
+2%
+10%
+0% 0%
+ConoePhilips Integrated Independent ConoxePhilips Independent Integrated
+Peers” Peers” Peers® Peers”
+Compelling Shareholder Returns Through Cycles
+Tier 1 Tier 2 Tier 3
+Ordinary Dividend ty Share Buybacks cl VROC
+S&P Top-Quartile Reduces Absolute Flexible Channel for
+Dividend Growth Dividend Over Time Higher Commodity Prices
+‘Source: Bloomberg. 2018-2022 weighted-average of dividend paid and share buybacks as a percentage of CFO. *Source: Bloomberg; 2018-2022 average of dividend paid and share buybacks as a percentage of year-end market cap.
+3Integrated peers include CVX and XOM. Independent peers include APA, DVN, EOG, HES, OXY and PXD. ;
+Cash from operations (CFO) is a non-GAAP measure defined in the Appendix. ConocoPhillips 50",50,"[ 0.02447476  0.00733931 -0.01410145 ... -0.00181533 -0.01169142
+ -0.0133605 ]"
+"[Page 51]
+Fortress Balance Sheet: A Strategic Asset ww
+     
+
+ 
+Gross Debt Profile Net Debt/CFO
+Consensus 2023!
+3.0X
+$3B
+L $28
+a ans
+1.0% GonoeePhiips
+0.3x
+ox ———_ i | | he
+2021 Debt Reduction 2022 Natural 2026 Integrated Independent S&P 500 S&P 500
+Achieved Maturities Peers? Peers* Energy
+On Target Net Debt/CFO at $60/BBL WTI
+$5B debt reduction by 2026
+~$250MM/year interest reduction
+Weighted-average maturity extension of three years 3024-2028 2029-2032
+Average Average
+‘Source: Bloomberg Net Debt to CFO. As of March 30, 2023. Integrated peers include CVX and XOM. Independent peers include APA, DVN, EOG, HES, OXY and PXD.
+Net debt and cash from operations (CFO) are non-GAAP measures defined in the Appendix. ConocoPhillips 51",51,"[ 0.00343632  0.0205307  -0.01437942 ... -0.00684092 -0.00884643
+  0.00621866]"
+"[Page 52]
+Plan Resilient Through Stress Test
+Our Rationale for Holding Cash
+Longer-cycle projects
+Share buybacks
+Strategic ;
+eed Down-cycle price protection
+Business development
+optionality
+Maintain near-term
+Reserve Cash
+mi yie) operating plan even with
+price volatility
+Operating Cash Daily operating and
+~$1B working capital
+
+12022 Real, escalating at 2.25% annually. “Source: Bloomberg Net Debt to CFO. As of March 30, 2023.
+Net debt and cash from operations (CFO) are non-GAAP measures defined in the Appendix.
+ww
+Two-Year $40/BBL WTI' Stress Test
+Net Debt/CFO
+1.5x
+1.0x
+O32
+0.0x
+2023 2024 2025 2026 2027 2028
+Consensus?
+@ $60/BBL WTI (Base Plan) ™@ Two-Years at $40/BBL WTI
+Cash and CFO Fund Consistent Execution in Low Price Scenario
+Maintain capital program,
+including longer-cycle projects
+
+Meet 30% distribution commitment through
+ordinary dividend and share buybacks
+
+<1.5x leverage ratio through the down-cycle
+
+No additional debt required
+ConocoPhillips 52",52,"[ 0.00963998 -0.00985563 -0.00277339 ... -0.00748357 -0.00384361
+  0.00525128]"
+"[Page 53]
+A Powerful Plan with Differential Upside ww
+10-Year Plan ($B)
+2023-2032 Peer leading ROCE improving through time
+$350
+
+$300 Top quartile ordinary dividend growth
+aa
+$250 Upside Sensitivity
+
+$80/B
+    
+ae >90% market cap? distributed
+$200 Distributions
+
+30% of CFO
+$150 ator Distribution ~$35/BBL WTI FCF Breakeven?
+$60/BBL WTI Commitment
+Mid-Cycle
+$100 Planning Price
+
+~6% CFO CAGR, ~11% FCF CAGR
+Capital
+$50
+
+i Unhedged for price upside
+Sources Uses
+‘Cash includes cash, cash equivalents, restricted cash and short-term investments. *Market cap of ~$121B at March 31, 2023 close. *Average over the next 10 years.
+CAGRs calculated from FY2024 at $60/BBL WTI. Cash from operations (CFO), free cash flow (FCF) and return on capital employed (ROCE) are non-GAAP measures. Definitions are included in the Appendix. ConocoPhillips 53",53,"[ 0.01280132 -0.01390821 -0.00912776 ...  0.00024401 -0.00972933
+ -0.0018809 ]"
+"[Page 54]
+    
+ConocoPhillips
+Closing
+Ryan Lance
+Chairman and CEO",54,"[ 0.00595966 -0.0268146   0.00055315 ... -0.00118379  0.01105909
+  0.00318714]"
+"[Page 55]
+ConocoPhillios Remains the Must-Own E&P Company
+What You
+Heard Today
+We are committed to
+delivering superior returns
+on and of capital
+through the cycles
+
+We have a deep, durable
+and diverse portfolio
+
+We are progressing our
+2050 Net-Zero ambition and
+accelerating our 2030 GHG emissions
+intensity reduction target
+
+'Market cap of ~$121B at March 31, 2023 close. *Average over the next ten years.
+CAGRs calculated from FY2024 at $60/BBL WTI. Cash from operations (CFO), free cash flow (FCF) and return on capital employed (ROCE) are non-GAAP measures defined in the appendix.
+Foundational
+Principles
+sl
+Balance Sheet
+Strength
+ANA APN
+w
+RETURNS On
+Disciplined Peer-Leading
+Investments Distributions
+ESG
+Excellence
+O09.
+ian
+Deliver Superior Returns
+Through Cycles
+
+ww
+A Compelling Returns
+Focused 10-Year Plan
+Peer leading ROCE
+improving through time
+
+Top quartile ordinary dividend growth
+
+>90% market cap! distributed
+
+~$35/BBL WTI FCF Breakeven?
+
+~6% CFO CAGR, ~11% FCF CAGR
+
+Unhedged for price upside
+ConocoPhillips 55",55,"[ 0.02929294 -0.00589226 -0.00746754 ... -0.00647347  0.00137586
+  0.00374379]"
+"[Page 56]
+   
+wr
+ConocoPhillips
+  
+Appendix
+Reconciliations, Abbreviations and Definitions",56,"[ 0.01298119  0.01103795 -0.00525542 ... -0.01282385 -0.01412983
+  0.01198203]"
+"[Page 57]
+Abbreviations
+APLNG: Australia Pacific LNG
+B: billion
+BBL: barrel
+BBOE: billions of barrels of oil equivalent
+BCFD: billion cubic feet per day
+BOE: barrels of oil equivalent
+CAGR: compound annual growth rate
+CAPEX: capital expenditures and investments
+CCS: carbon capture and storage
+CFO: cash from operations
+CO,: carbon dioxide
+CO,e: carbon dioxide equivalent
+CoS: Cost of Supply
+CPF: central processing facility
+E-FRAC: electric frac
+EMENA: Europe, Middle East and North Africa
+EPC: engineering procurement and construction
+ESG: environmental, social and governance
+EUR: estimated ultimate recovery
+FEED: front end engineering design
+FERC: Federal Energy Regulatory Commission
+FCF: free cash flow
+FID: final investment decision
+FT: foot
+G&A: general and administrative
+GAAP: generally accepted accounting principles
+GHG: greenhouse gas emissions
+GKA: Greater Kuparuk Area
+GPA: Greater Prudhoe Area
+GWA: Greater Willow Area
+GWh: gigawatt-hour
+KG: kilograms
+LNG: liquefied natural gas
+MBOD: thousands of barrels of oil per day
+MBOED: thousands of barrels of oil equivalent per day
+MM: million
+MMBOD: millions of barrels of oil per day
+MMBOED: millions of barrels of oil equivalent per day
+MT: million tonnes
+MTPA: million tonnes per annum
+MWh: megawatt-hour
+NFE: North Field East
+NFS: North Field South
+NGL: natural gas liquids
+OPEX: operating expenses
+PA LNG: Port Arthur LNG
+QG3: Qatargas 3
+ROCE: return on capital employed
+Te: tonnes
+THE: Trading Hub Europe
+VROC: variable return of cash
+WNS: Western North Slope
+WTI: West Texas Intermediate
+ConocoPhillips 57",57,"[ 0.02218418  0.02133472 -0.01192522 ... -0.00472108 -0.01368134
+  0.01908036]"
+"[Page 58]
+Non-GAAP Reconciliations ww
+Use of Non-GAAP Financial Information: ConocoPhillips’ financial information includes information prepared in conformity with generally accepted accounting principles
+(GAAP) as well as non-GAAP information. It is management's intent to provide non-GAAP financial information to enhance understanding of our consolidated financial information
+as prepared in accordance with GAAP This non-GAAP information should be considered by the reader in addition to, but not instead of the financial statements prepared in
+accordance with GAAP Each historical non-GAAP financial measure included in this presentation is presented along with the corresponding GAAP measure, so as not to imply that
+more emphasis should be placed on the non-GAAP measure. The non-GAAP financial information presented may be determined or calculated differently by other companies.
+Reconciliation of Return on Capital Employed (ROCE)
+
+2016 2019 2022
+Numerator
+Net Income (Loss) Attributable to ConocoPhillips (3,615) 7,189 18,680
+Adjustment to Exclude Special Items 307 (3,153) (1,340)
+Net Income Attributable to Noncontrolling Interests 56 68 -
+After-tax Interest Expense 796 637 641
+ROCE Earnings (2,456) 4,741 17,981
+Denominator
+Average Total Equity’ 37,837 33,713 48,801
+Average Total Debt? 28,225 14,930 17,742
+Average Capital Employed 66,062 48,643 66,543
+ROCE (percent) -4% 10% 27%
+‘Average total equity is the average of beginning total equity and ending total equity by quarter.
+?Average total debt is the average of beginning long-term debt and short-term debt and ending long-term debt and short-term debt by quarter. ConocoPhillips 58",58,"[ 0.02198924 -0.01383957 -0.0124002  ... -0.00468978 -0.00409849
+  0.0027098 ]"
+"[Page 59]
+Non-GAAP Reconciliations — Continued ww
+Reconciliation of Net Cash Provided by Operating Activities to Cash from Operations to Free Cash Flow
+($ Millions, Except as Indicated)
+2016 2019 2022
+Net Cash Provided by Operating Activities 4,403 11,104 28,314
+Adjustments:
+Net Operating Working Capital Changes (481) (579) (234)
+Cash from Operations 4,884 11,683 28,548
+Capital Expenditures and Investments (4,869) (6,636) (10,159)
+Free Cash Flow 15 5,047 18,389
+Reconciliation of Debt to Net Debt ($ Millions, Except as Indicated)
+2016 2019 2022
+Total Debt 27,275 14,895 16,643
+Less:
+Cash and Cash Equivalents! 3,610 5,362 6,694
+Short-Term Investments 50 3,028 2,185
+Net Debt 23,615 6,505 7,164
+‘Includes restricted cash of $0.3B in 2019 and $0.2B in 2022.
+ConocoPhillips 59",59,"[ 0.00967117  0.01465946 -0.01113712 ... -0.01603039 -0.01186331
+ -0.0092979 ]"
+"[Page 60]
+Non-GAAP Reconciliations — Continued
+Reconciliation of Reinvestment Rate ($ Millions, Except as Indicated)
+Numerator
+Capital Expenditure
+and Investments
+Denominator
+Net Cash Provided by
+Operating Activities
+Net Operating
+Working Capital
+Changes
+Cash from Operations
+Reinvestment Rate
+Reinvestment rates in 2012-2016 and 2017-2022 columns represent the simple averages of corresponding years.
+2012
+14,172
+13,922
+(1,239)
+15,161
+93%
+2013
+15,537
+16,087
+
+16,039
+97%
+104%
+2014
+17,085
+16,735
+(505)
+17,240
+99%
+2015
+10,050
+7,572
+(22)
+7,594
+132%
+Average 2012-2016
+Reinvestment Rate
+2016
+4,869
+4,403
+(481)
+4,884
+100%
+
+2017
+4,591
+7,077
+
+7,062
+65%
+2018
+6,750
+12,934
+635
+12,299
+55%
+2019
+6,636
+11,104
+(579)
+11,683
+57%
+56%
+2020
+4,715
+4,802
+(372)
+5,174
+91%
+Average 2017-2022
+Reinvestment Rate
+2021
+5,324
+16,996
+1,271
+15,725
+34%
+ww
+2022
+10,159
+28,314
+(234)
+28,548
+36%
+ConocoPhillips 60",60,"[ 0.02136917  0.01019708 -0.01400236 ... -0.01692742 -0.00937102
+  0.00311972]"
+"[Page 61]
+Definitions ww
+Non-GAAP Measures
+Cash from operations (CFO) is calculated by removing the impact from operating working capital from cash provided by operating activities. The company believes that the non-
+GAAP measure cash from operations is useful to investors to help understand changes in cash provided by operating activities excluding the impact of working capital changes
+across periods on a consistent basis and with the performance of peer companies in a manner that, when viewed in combination with the Company's results prepared in accordance
+with GAAP provides a more complete understanding of the factors and trends affecting the Company's business and performance. Additionally, when the company estimates CFO
+based on sensitivities, it assumes no operating working capital changes, and therefore CFO equals cash provided by operating activities.
+Free cash flow is defined as cash from operations net of capital expenditures and investments. The company believes free cash flow is useful to investors in understanding how
+existing cash from operations is utilized as a source for sustaining our current capital plan and future development growth. Free cash flow is not a measure of cash available for
+discretionary expenditures since the company has certain non-discretionary obligations such as debt service that are not deducted from the measure.
+Net debt includes total balance sheet debt less cash, cash equivalents and short-term investments. The company believes this non-GAAP measure is useful to investors as it
+provides a measure to compare debt less cash, cash equivalents and short-term investments across periods on a consistent basis.
+Reinvestment rate defined as total capital expenditures divided by cash from operations. Cash from operations is a non-GAAP measure defined in this Appendix. The company
+believes reinvestment rate is useful to investors in understanding the execution of the company’s disciplined and returns-focused capital allocation strategy.
+
+Return on capital employed (ROCE) is a measure of the profitability of the company’s capital employed in its business operations compared with that of its peers. The company
+calculates ROCE as a ratio, the numerator of which is net income, and the denominator of which is average total equity plus average total debt. The net income is adjusted for
+after-tax interest expense, for the purposes of measuring efficiency of debt capital used in operations; net income is also adjusted for non-operational or special items impacts to
+allow for comparability in the long-term view across periods. The company believes ROCE is a good indicator of long-term company and management performance as it relates to
+capital efficiency, both absolute and relative to the company’s primary peer group.
+ConocoPhillips 61",61,"[ 0.00909551  0.02230756 -0.01508913 ... -0.00800115 -0.01466153
+ -0.00214161]"
+"[Page 62]
+Definitions ww
+Other Terms
+Cost of Supply is the WTI equivalent price that generates a 10% after-tax return on a point-forward and fully burdened basis. Fully burdened includes capital infrastructure, foreign
+exchange, price-related inflation, G&A and carbon tax (if currently assessed). If no carbon tax exists for the asset, carbon pricing aligned with internal energy scenarios are applied.
+All barrels of resource in the Cost of Supply calculation are discounted at 10%.
+Distributions is defined as the total of the ordinary dividend, share repurchases and variable return of cash (VROC). Also referred to as return of capital.
+Free cash flow breakeven is the WTI price at which cash from operations equals capital expenditures and investments. Also referred to as capital breakeven. Cash from operations
+is anon-GAAP measure defined in this Appendix.
+Leverage ratio refers to net debt divided by cash from operations. Net debt and cash from operations are non-GAAP measures defined in this Appendix.
+Optimized Cascade® Process is a ConocoPhillips proprietary licensed process for technology to liquefy natural gas. More information can be found at
+http://Inglicensing.conocophillips.com/what-we-do/Ing-technology/optimized-cascade-process.
+Reserve replacement is defined by the Company as a ratio representing the change in proved reserves, net of production, divided by current year production. The Company
+believes that reserve replacement is useful to investors to help understand how changes in proved reserves, net of production, compare with the Company's current year
+production, inclusive of acquisitions and dispositions.
+Resources: The company estimates its total resources based on the Petroleum Resources Management System (PRMS), a system developed by industry that classifies recoverable
+hydrocarbons into commercial and sub-commercial to reflect their status at the time of reporting. Proved, probable and possible reserves are classified as commercial, while
+remaining resources are categorized as sub-commercial or contingent. The company’s resource estimate includes volumes associated with both commercial and contingent
+categories. The SEC permits oil and gas companies, in their filings with the SEC, to disclose only proved, probable and possible reserves. U.S. investors are urged to consider closely
+the oil and gas disclosures in our Form 10-K and other reports and filings with the SEC.
+Resource life is calculated as total resource under $40 Cost of Supply divided by 2022 production.
+
+Return of capital is defined as the total of the ordinary dividend, share repurchases and variable return of cash (VROC). Also referred to as distributions.
+ConocoPhillips 62",62,"[ 0.00583928  0.04189051 -0.01195625 ... -0.00247733 -0.00720787
+  0.02543579]"
+"[Page 63]",63,"[ 0.02878922 -0.02978687 -0.03106955 ... -0.01133041 -0.01197175
+  0.00297512]"
+"[Page Unknown]
+**Today's Agenda**
+**Summary of Extracted Information**
+- **Opening**
+  - Presenter: Ryan Lance, Chairman and CEO
+- **Strategy and Portfolio**
+  - Presenter: Dominic Macklon, EVP, Strategy, Sustainability and Technology
+- **Alaska and International**
+  - Presenter: Andy O’Brien, SVP, Global Operations
+- **LNG and Commercial**
+  - Presenter: Bill Bullock, EVP and CFO
+- **Lower 48**
+  - Presenter: Nick Olds, EVP, Lower 48
+- **Financial Plan**
+  - Presenter: Bill Bullock, EVP and CFO
+- **Closing**
+  - Presenter: Ryan Lance, Chairman and CEO
+- **10-Minute Break**
+- **Q&A Session**","Unknown","[ 0.0131818  -0.00609498 -0.00737077 ...  0.006015    0.01286186
+  0.00769072]"
+"[Page Unknown]
+### Cautionary Statement
+Summary of Extracted Information
+**Key Facts:**
+- The presentation outlines ConocoPhillips' operational plans for the next decade, emphasizing various assumptions.
+- Key price assumptions include:
+  - $61.85 per barrel for WTI Brent in 2022, escalating at 2.25% annually.
+  - $63.75 per barrel for Brent in 2022, escalating at 2.25% annually.
+  - $3.75 per MMBTU for Henry Hub in 2022, escalating at 2.25% annually.
+- International gas prices and capital escalation are also discussed, with specific figures provided for future projections.
+**Supporting Data/Trends:**
+- The company anticipates growth rates and cost projections, including the impact of carbon tax on cash flow forecasts.
+- The Cost of Supply definition is referenced for understanding carbon costs.
+**Governance/Policy Information:**
+- Forward-looking statements are defined, indicating that they are based on management's expectations and plans, which may change due to various factors.
+- The company disclaims any obligation to update forward-looking statements.
+**Financial/Business Implications:**
+- The statement highlights potential risks affecting operations, including geopolitical conflicts, regulatory changes, and market fluctuations.
+- Non-GAAP financial measures are discussed, emphasizing the need for reconciliation to GAAP measures for clarity in financial reporting.
+This summary captures the essential elements of the cautionary statement, focusing on operational expectations, financial assumptions, and potential risks.","Unknown","[-0.01702602 -0.024351   -0.00889894 ... -0.01187281  0.00551643
+  0.02288298]"
+"[Page Unknown]
+**Opening**
+**Speaker:** Ryan Lance, Chairman and CEO
+**Summary of Extracted Information:**
+- **Key Facts:**  the opening remarks by Ryan Lance, who holds the position of Chairman and CEO of ConocoPhillips.
+- **Visual Elements:** The design features a modern aesthetic with a gradient of purple and blue lines, alongside the ConocoPhillips logo.
+No additional content or context is provided in .","Unknown","[ 0.01231388  0.00062011 -0.01121583 ... -0.00379024  0.01937279
+ -0.00732166]"
+"[Page Unknown]
+### ConocoPhillips Remains the Must-Own E&P Company
+#### The Macro
+- **Oil Price Trend**: The graph illustrates the fluctuation of oil prices (WTI) from 2019 to 2024, with a notable mid-cycle planning price set at **$60 per barrel**.
+#### What You’ll Hear Today
+- **Commitment to Returns**: ConocoPhillips is dedicated to delivering superior returns on and of capital throughout market cycles.
+ - **Portfolio Strength**: The company boasts a **deep, durable, and diverse portfolio**.
+- **Sustainability Goals**: ConocoPhillips is advancing its **2050 Net-Zero ambition** and is accelerating efforts to meet its **2030 GHG emissions intensity reduction target**.","Unknown","[ 0.00648738 -0.01830048 -0.0135395  ... -0.01416143  0.00736309
+  0.00236977]"
+"[Page Unknown]
+### We Are Committed to Our Returns-Focused Value Proposition
+#### Triple Mandate
+Aligned to Business Realities:
+- **Meet Transition Pathway Demand**
+- **Deliver Competitive Returns**
+- **Achieve Net-Zero Emissions Ambition**
+#### Foundational Principles
+- **Balance Sheet Strength**
+- **Disciplined Investments**
+- **Peer-Leading Distributions**
+- **ESG Excellence**
+#### Clear and Consistent Priorities
+1. Sustain production and pay dividend
+2. Annual dividend growth
+3. ‘A’-rated balance sheet
+4. Over 30% of CFO shareholder payout
+5. Disciplined investment to enhance returns
+### Summary of Extracted Information
+**Key Facts:**
+- The company emphasizes a commitment to a returns-focused value proposition through a triple mandate that includes meeting demand, delivering returns, and achieving net-zero emissions.
+**Supporting Data/Trends:**
+- Priorities include sustaining production, annual dividend growth, maintaining a strong balance sheet, and ensuring significant shareholder payouts.
+**Governance/Policy Information:**
+- The foundational principles guide the company's strategy, focusing on financial health and responsible investment practices.
+**Financial/Business Implications:**
+- The outlined priorities suggest a strong focus on shareholder returns and financial stability, indicating a disciplined approach to investments and distributions.","Unknown","[ 0.02436888  0.01368443 -0.00707083 ... -0.00092947  0.00010077
+  0.00223996]"
+"[Page Unknown]
+### We Are Continuously Improving
+#### Summary of Extracted Information
+**Key Facts:**
+- **Return on Capital Employed:**
+  - 2016: -4%
+  - 2019: 10%
+  - 2022: 27%
+ - **Return of Capital:**
+  - 2016: $1.11/share
+  - 2019: $4.45/share
+  - 2022: $11.73/share
+ - **Net Debt:**
+  - 2016: $24B
+  - 2019: $7B
+  - 2022: $7B
+ - **Cash From Operations | Free Cash Flow:**
+  - 2016: $5B | $0B
+  - 2019: $12B | $5B
+  - 2022: $29B | $18B
+ - **Resource (<$40/Bbl WTI):**
+  - 2016: ~10 BBOE
+  - 2019: ~15 BBOE
+  - 2022: ~20 BBOE
+ - **Production:**
+  - 2016: 1.6 MMBOED
+  - 2019: 1.3 MMBOED
+  - 2022: 1.7 MMBOED
+ - **Emissions Intensity (kg CO2e/BOE):**
+  - 2016: ~39
+  - 2019: ~36
+  - 2022: ~22
+**Supporting Data/Trends:**
+- Significant improvement in return on capital employed and return of capital over the years.
+- Cash from operations and free cash flow have increased notably from 2016 to 2022.
+- Emissions intensity has decreased, indicating improved environmental performance.
+**Governance/Policy Information:**
+- The foundational principles include:
+  - Peer-Leading Distributions and Returns
+  - Balance Sheet Strength
+  - Disciplined Investments
+  - ESG Excellence
+**Financial/Business Implications:**
+- The data reflects a strong financial recovery and growth trajectory, particularly in returns and cash flow, which may enhance investor confidence and support future investments.","Unknown","[ 0.01342661  0.01946777 -0.00553503 ... -0.00850298 -0.0143012
+  0.00269463]"
+"[Page Unknown]
+### 10-Year Plan Overview (2023-2032)
+**Summary of Extracted Information**
+**Key Facts:**
+- The plan outlines projected cash flow (CFO) at two price points for West Texas Intermediate (WTI) crude oil:
+  - **$80/BBL WTI:** Indicates upside sensitivity.
+  - **$60/BBL WTI:** Serves as the mid-cycle planning price.
+- Additional distributions are planned, with a commitment to distribute 30% of CFO.
+- The company aims to distribute over 90% of its market capitalization.
+**Supporting Data/Trends:**
+- The breakeven point for free cash flow (FCF) is approximately **$35/BBL WTI**.
+- Projected compound annual growth rates (CAGRs):
+  - **CFO CAGR:** ~6%
+  - **FCF CAGR:** ~11%
+**Governance/Policy Information:**
+- The plan emphasizes a peer-leading return on capital employed (ROCE) that is expected to improve over time.
+- The company is positioned in the top quartile for ordinary dividend growth.
+**Financial/Business Implications:**
+- The strategy is unhedged for price upside, indicating potential for increased revenue with rising oil prices.
+- The financial strategy is designed to enhance shareholder value through significant distributions and growth in cash flow metrics.","Unknown","[-0.01017159 -0.00682241 -0.00826442 ... -0.00332011 -0.01108641
+  0.00061101]"
+"[Page Unknown]
+**Strategy and Portfolio**
+**Summary of Extracted Information**
+- **Key Facts:**  - The presentation is led by Dominic Macklon, who holds the position of Executive Vice President for Strategy, Sustainability, and Technology at ConocoPhillips.
+- **Supporting Data/Trends:**  - No specific data or trends are provided on .
+- **Governance/Policy Information:**  - No governance or policy information is included in .
+- **Financial/Business Implications:**  - No financial or business implications are mentioned in .","Unknown","[-0.00977771  0.02300451 -0.01650186 ... -0.00208053  0.01450834
+ -0.00618622]"
+"[Page Unknown]
+**Strategy Powers Our Returns-Focused Value Proposition**
+**Rigorous Capital Allocation Framework**
+- **Key Facts:**
+  - Commitment to a disciplined reinvestment rate.
+  - Cost of Supply analysis informs investment decisions.
+  - Balances short-cycle, flexible unconventional projects with select longer-cycle, low-decline conventional projects.
+**Differentiated Portfolio Depth, Durability, and Diversity**
+- **Key Facts:**
+  - Approximately 20 BBOE with a low cost of supply base (<$40/BBL WTI).
+  - Leading position in Lower 48 unconventional resources, complemented by premium assets in Alaska and internationally.
+  - Strong track record of active portfolio management.
+**Valued Role in the Energy Transition**
+- **Key Facts:**
+  - Accelerating GHG-intensity reduction target through 2030.
+  - Developed an attractive LNG portfolio.
+  - Evaluating long-term low-carbon options in hydrogen and carbon capture and storage (CCS).","Unknown","[ 0.00897204  0.00113401 -0.01406595 ... -0.00313367  0.00024719
+  0.01096497]"
+"[Page Unknown]
+### Commitment to Disciplined Reinvestment Rate
+#### Summary of Extracted Information
+**Key Facts:**
+- **Industry Growth Focus:** Reinvestment rate exceeds 100%.
+- **ConocoPhillips Strategy Reset:** Reinvestment rate is less than 60%.
+- **Historical Reinvestment Rates:**
+  - 2012-2016: Average WTI price ~$75/Bbl.
+  - 2017-2022: Average WTI price ~$63/Bbl.
+- **Projected Reinvestment Rates:**
+  - 2023E: Reinvestment rate at $80/Bbl WTI.
+  - 2024-2028: Reinvestment rate at $60/Bbl WTI.
+  - 2029-2032: Reinvestment rate at $60/Bbl WTI.
+**Supporting Data/Trends:**
+- **10-Year Reinvestment Rate:** Approximately 50%.
+- **CFO CAGR (2024-2032):** Approximately 6% at a mid-cycle planning price of $60/Bbl WTI.
+**Governance/Policy Information:**
+- Emphasis on a disciplined reinvestment rate as a foundation for superior returns on and of capital, driving durable CFO growth.
+**Financial/Business Implications:**
+- The strategy aims to balance reinvestment with returns, indicating a shift towards more sustainable financial practices in the oil and gas sector.","Unknown","[-0.00523057  0.02131054 -0.01341056 ... -0.01693494  0.00023159
+ -0.00130391]"
+"[Page Unknown]
+### Cost of Supply Analysis Informs Investment Decisions
+**Summary of Extracted Information**
+- **Main Topic**:  the importance of cost of supply analysis in making investment decisions in the oil industry, specifically focusing on WTI (West Texas Intermediate) oil.
+#### Key Facts:
+- **Cost of Supply**: Defined as the WTI oil price required to achieve a point-forward 10% return.
+- **Fully Burdened Metric**: This metric includes all components rigorously calculated for each entity involved in oil production.
+- **Components of Cost**:
+  - **Capital**: Includes costs related to facilities and wells.
+  - **OPEX**: Operational expenditures such as General & Administrative (G&A), transport, and lifting costs.
+  - Other factors include royalty, taxes, product mix, and differential to WTI.
+#### Supporting Data/Trends:
+- The cost of supply is indicated to be less than $40 per barrel (BBL), emphasizing the competitive advantage of maintaining a low cost of supply.
+#### Governance/Policy Information:
+- The analysis serves as a guiding principle for investment decisions, highlighting the strategic focus on minimizing costs to enhance profitability.
+#### Financial/Business Implications:
+- A low cost of supply is positioned as a critical factor for success in the oil market, suggesting that entities with lower costs are more likely to succeed in achieving desired returns.","Unknown","[-1.1185921e-02 -7.8002028e-03 -1.0011284e-02 ... -6.8916350e-05
+ -4.8252237e-03  1.5615760e-02]"
+"[Page Unknown]
+### Secondary Investment Criteria Reinforce Resilient, Durable Returns
+#### Investment Criteria
+- **Primary Criteria:**
+  - **Disciplined Reinvestment Rate:** Focus on returns of capital.
+  - **Cost of Supply:** Emphasis on returns on capital.
+- **Secondary Criteria:**
+  - Balance of short-cycle, flexible unconventional resources with longer-cycle, low-decline conventional resources.
+  - Product mix and market exposure.
+  - Predictable execution.
+#### Production Overview
+- **Production Mix (2023-2032):**
+  - Oil: ~55%
+  - NGL (Natural Gas Liquids): ~15%
+  - North American Gas: ~15%
+  - International Gas: ~15%
+- **Production Growth:**
+  - Expected CAGR (Compound Annual Growth Rate) of ~4-5% over 10 years.
+  - Breakdown of production growth:
+    - **Unconventional (Lower 48 + Montney):** ~6% CAGR
+    - **Conventional:** ~3% CAGR
+    - **LNG + Surmont:** ~2% CAGR
+#### Key Insights
+- The investment strategy emphasizes a balanced and diversified approach to production growth, ensuring resilient and durable returns through disciplined financial practices and a strategic product mix.","Unknown","[ 0.01292692 -0.00112192 -0.01748583 ...  0.00540621 -0.01026505
+  0.01126232]"
+"[Page Unknown]
+### Our Differentiated Portfolio: Deep, Durable and Diverse
+#### Summary of Extracted Information
+**Key Facts:**
+- The company has approximately **20 billion barrels of oil equivalent (BBOE)** of resources.
+- The average cost of supply is around **$32 per barrel (BBL)**.
+- The cost of supply for resources is under **$40 per BBL**.
+**Supporting Data/Trends:**
+- The graph illustrates the WTI cost of supply in relation to the resource volume (BBOE), showing a gradual increase in cost as resource volume increases.
+- The color-coded bar chart categorizes resources by region: Lower 48, Canada, Alaska, EMENA (Europe, Middle East, North Africa), and Asia Pacific.
+**Governance/Policy Information:**
+- The data suggests a strategic focus on maintaining a diverse production base across various geographical regions.
+**Financial/Business Implications:**
+- The cost structure indicates a competitive advantage in resource extraction, potentially leading to higher profitability in a favorable price environment (assumed mid-cycle price of **$60 per BBL WTI**).
+This information highlights the company's robust resource base and cost efficiency, positioning it well for future production and profitability.","Unknown","[ 0.00575589  0.00950535 -0.00422977 ...  0.002142   -0.00277143
+  0.01502109]"
+"[Page Unknown]
+**Strong Track Record of Active Portfolio Management**
+**Summary of Extracted Information**
+**Key Facts:**
+- **Production:**
+  - 2016: 1.6 MMBOED
+  - 2022: 1.7 MMBOED
+- **Resource (<$40/BBL WTI):**
+  - 2016: ~10 BBOE
+  - 2022: ~20 BBOE
+- **Average Cost of Supply:**
+  - 2016: <$40/BBL WTI
+  - 2022: ~$32/BBL WTI
+- **Resource Life:**
+  - 2016: >18 years
+  - 2022: >30 years
+- **Emissions Intensity:**
+  - 2016: ~39 kg CO2e/BOE
+  - 2022: ~22 kg CO2e/BOE
+**Supporting Data/Trends:**
+- The company has shown an increase in production and resources over the years, while also improving the average cost of supply and reducing emissions intensity.
+**Governance/Policy Information:**
+- Key transactions include:
+  - 2017: San Juan Exit, Canada Cenovus Transaction
+  - 2018: WNS and GKA Working Interest Consolidations
+  - 2019: U.K. Exit
+  - 2020: Montney Acreage Acquisition
+  - 2021: Niobrara and Australia-West Exits, Indonesia Exit
+  - 2022: Concho and Shell Permian Acquisitions, APLNG Acquisition
+**Financial/Business Implications:**
+- The cost of supply framework has driven disciplined transactions, with approximately $25B in both acquisitions and divestitures since 2016.","Unknown","[ 0.01346589  0.02466665 -0.00871077 ... -0.00220476 -0.01155052
+  0.01033468]"
+"[Page Unknown]
+### Accelerating Our GHG-Intensity Reduction Target Through 2030
+**Summary of Extracted Information**
+**Key Facts:**
+- The company aims to reduce greenhouse gas (GHG) intensity through various initiatives.
+- Emissions reduction opportunities include:
+  - Methane Venting and Flaring
+  - Electrification
+  - Optimization and Efficiency
+  - Strategic Pilots and Studies
+- Targets set for different timeframes:
+  - **Near-Term (2025):** Achieve zero routine flaring.
+  - **Medium-Term (2030):** Reduce GHG intensity by 50-60% and set a near-zero methane intensity target of less than 1.5 kg CO₂e/BOE.
+  - **Long-Term (2050):** Aim for net-zero emissions.
+**Supporting Data/Trends:**
+- Emissions intensity is projected to decrease from approximately 40 kg CO₂e/BOE in 2016 to significantly lower levels by 2030, with a target of 50% and 60% reductions indicated on the graph.
+**Governance/Policy Information:**
+- The reduction targets align with global initiatives, including the World Bank's Zero Routine Flaring initiative, with a commitment to achieve these goals five years ahead of the World Bank's 2030 target.
+**Financial/Business Implications:**
+- The outlined strategies and targets are expected to enhance sustainability and potentially improve operational efficiency, aligning with broader environmental goals and stakeholder expectations.","Unknown","[-0.00872795 -0.01466504 -0.00629612 ... -0.01178533 -0.00192104
+  0.00523011]"
+"[Page Unknown]
+### LNG: A Crucial Fuel for Energy Transition
+#### U.S. Electric Power Sector Emissions
+- **Key Facts:**
+  - Significant reduction in U.S. electric power sector emissions due to the shift from coal to natural gas.
+  - Coal's share of electricity generation decreased from 51% in 2001 to 40% in 2021.
+  - Natural gas increased from 17% to 20% in the same period.
+  - Total CO2 emissions dropped from 2,500 million metric tons in 2001 to 1,750 million metric tons in 2021, representing a >30% reduction.
+#### Global Coal Consumption
+- **Key Facts:**
+  - Global coal consumption has not yet peaked, showing a steady trend from 2000 to 2020.
+#### U.S. LNG and Carbon Intensity
+- **Key Facts:**
+  - U.S. LNG significantly reduces the carbon intensity of electricity.
+  - A >40% reduction in lifecycle greenhouse gas emissions is observed when switching from domestic coal to imported LNG.
+  - Comparison:    - Germany, Domestic Coal: ~1,200 kg CO2e per MWh
+    - Germany, U.S. Permian LNG: ~800 kg CO2e per MWh
+#### Strong LNG Growth Outlook
+- **Supporting Data/Trends:**
+  - Anticipated strong growth in LNG supply, with a gap of >300 MTPA (Million Tons Per Annum) expected by 2050.
+  - Current projects include both operational and under-construction facilities.
+This summary highlights the critical role of LNG in reducing emissions and its potential for future growth in the energy sector.","Unknown","[ 0.00844001  0.00851889 -0.01378225 ... -0.01192501  0.01626334
+  0.02353451]"
+"[Page Unknown]
+### 10-Year Plan Reflects Durable Returns-Focused Value Proposition
+#### Capital ($B)
+- **2023 Estimated Capital**: ~$11B
+- **2024-2028 Average Capital**: Not specified, but projected to be consistent.
+- **2029-2032 Average Capital**: Not specified, but projected to be consistent.
+#### Production (MBOED)
+- **2023 Estimated Production**: Not specified.
+- **10-Year Production CAGR**: ~4-5%
+- **2024-2028 Average Production**: Not specified, but projected to be consistent.
+- **2029-2032 Average Production**: Not specified, but projected to be consistent.
+#### Free Cash Flow (FCF) ($B)
+- **2023 Estimated FCF**: Not specified.
+- **Projected FCF Over the Next 10 Years at $60/BBL WTI**: >$115B
+- **Breakeven FCF Price**: ~$35/BBL WTI (Average Over the Next 10 Years)
+- **Upside Sensitivity**: $80/BBL WTI
+- **Mid-Cycle Planning Price**: $60/BBL WTI
+### Summary
+The plan emphasizes a focus on durable returns through strategic capital allocation and production growth, with a significant projected free cash flow over the next decade under varying oil price scenarios.","Unknown","[-0.00500124  0.01821648 -0.01027652 ... -0.00287382 -0.01332702
+ -0.00754332]"
+"[Page Unknown]
+**Alaska and International Overview**
+**Summary of Extracted Information**
+- **Key Facts:**
+  - The presentation is led by Andy O’Brien, Senior Vice President of Global Operations at ConocoPhillips.
+  - The focus is on the operations in Alaska and international ventures.
+- **Supporting Data/Trends:**
+  - Specific data and trends are not provided in , but the title suggests a discussion on operational strategies and performance metrics related to Alaska and international markets.
+- **Governance/Policy Information:**
+  - No specific governance or policy details are mentioned in .
+- **Financial/Business Implications:**
+  - The implications of operations in Alaska and internationally may include discussions on resource management, investment opportunities, and market positioning, though these details are not present in .","Unknown","[ 0.0002012  -0.01250842 -0.01550825 ...  0.01101242  0.00313494
+  0.00352264]"
+"[Page Unknown]
+### Alaska and International: Our Unique Diversification Advantage
+#### Portfolio Diversification
+- **Key Facts:**
+  - Approximately 9 billion barrels of oil equivalent (BBOE) with a cost of supply under $40 per barrel (WTI).
+  - Utilization of existing infrastructure across conventional assets.
+  - Focus on low-decline, low capital-intensity LNG and Surmont projects.
+#### High-Margin Production Growth
+- **Key Facts:**
+  - Expansion of world-class Qatar LNG resources, building on a 20-year relationship.
+  - Advancing Montney unconventional resources toward development mode.
+  - Investment in the high-margin Willow project for future growth.
+#### Significant Free Cash Flow
+- **Key Facts:**
+  - Low reinvestment rate supports distribution capacity.
+  - Production linked to high-value Brent pricing.
+  - Enhancing value through additional APLNG shareholding interest.","Unknown","[ 0.01182834  0.0094375  -0.01381808 ...  0.00121803  0.00225714
+  0.01632688]"
+"[Page Unknown]
+### Low Capital Intensity Production Growth
+#### Material Low Cost of Supply Resource Base
+- **Average Cost of Supply**: Approximately $30 per barrel (BBL).
+- **Cost Breakdown**:  - The chart illustrates the WTI cost of supply across various resources (LNG, Surmont, Montney, Conventional International, Alaska) with costs ranging from $0 to $50 per BBL.
+#### Capital-Efficient Production Growth
+- **Production Mix**:
+  - Oil: ~60%
+  - Natural Gas Liquids (NGL): ~5%
+  - North American Gas: ~5%
+  - International Gas: ~30%
+ - **Production Forecast**:
+  - 2023 Estimated Production: 600 MBOD (thousand barrels of oil equivalent per day).
+  - 2024-2028 Average Production: 800 MBOD.
+  - 2029-2032 Average Production: 1,000 MBOD.
+#### Key Insights
+- **Growth Rate**: Projected 4% Compound Annual Growth Rate (CAGR) at a ~40% reinvestment rate over the next 10 years, assuming a price of $60 per BBL WTI.
+This summary highlights the cost efficiency and projected growth in production capacity, emphasizing the strategic focus on leveraging existing infrastructure and resources.","Unknown","[-0.00480224  0.02677303 -0.00816891 ...  0.00813976 -0.0088539
+  0.0063872 ]"
+"[Page Unknown]
+### LNG: Expanding World-Class Assets
+**Summary of Extracted Information**
+**Key Facts:**
+- **Qatargas 3:** Maintains a legacy position supplying LNG to Asian and European markets.
+- **North Field Expansion Projects:**  - Strengthens a 20-year relationship with Qatar.
+  - Awarded 2 MTPA net; NFE expected to deliver first LNG in 2026, and NFS in 2027.
+  - NFE and NFS will add trains 15-20 to Qatar's LNG portfolio.
+**Supporting Data/Trends:**
+- **Expanding LNG Production:**  - Projected production levels for 2023E, 2024-2028 average, and 2029-2032 average are illustrated in a bar graph, showing increasing production capacity.
+**Governance/Policy Information:**
+- **AP LNG:**
+  - 90% of volumes are secured under long-term contracts.
+  - Increased shareholding interest by 10% in Q1 2022, with expectations to recoup approximately 50% of the purchase price by the end of Q2 2023.
+  - Plans to acquire an additional 2.49% shareholding interest and prepare for upstream operability upon the sale of Origin.
+**Financial/Business Implications:**
+- The expansion and increased shareholding in APLNG are expected to enhance cash flows and solidify long-term supply contracts, contributing to reliable LNG revenue streams.","Unknown","[-0.01146076  0.03053513 -0.01128332 ...  0.00597637  0.00860565
+  0.0081298 ]"
+"[Page Unknown]
+### Surmont: Leveraging Low Capital Intensity for Decades of Flat Production
+#### Optimizing the Machine
+- **Record Production**: Achieved in 2H 2022.
+- **Capital Requirements**: Low sustaining capital needs.
+- **Operating Cost**: Competitive due to a top-quartile steam-oil ratio.
+**Production (MBOED)**:
+- Demonstrated a consistent increase in production from 2016 to 2022, culminating in record production levels.
+#### First New Pad Drilled Since 2016
+- **Development Cost**: Less than $15 per barrel WTI cost of service.
+- **Well Pairs**: 24 well pairs with a gross peak rate of 25 MBOED.
+- **Average Well Cost**: Decreased by 30% compared to 2016 pads.
+#### Emissions Reduction Opportunities
+- **Current Technology Pilots**: 1/3 of emissions reduction.
+- **New Technologies**: 1/3 of emissions reduction.
+- **CCS and Offsets**: To achieve net-zero emissions.
+**Emissions Reduction Pathway**:
+- A projected decline in emissions from current technology to new technology and CCS & offsets from 2023 to 2050.
+### Summary of Extracted Information
+- **Key Facts**: Record production achieved in 2H 2022; low capital and operating costs; significant reduction in average well costs.
+- **Supporting Data/Trends**: Production increased steadily from 2016 to 2022; average well costs decreased by 30%.
+- **Governance/Policy Information**: Emphasis on optimizing production and reducing emissions through various technologies and strategies.
+- **Financial/Business Implications**: Enhanced production efficiency and cost-effectiveness position the company for sustained production levels into the 2030s while addressing emissions reduction goals.","Unknown","[ 0.01536425  0.03741587 -0.01289828 ...  0.00974685 -0.01644259
+  0.00790364]"
+"[Page Unknown]
+### Montney: Building Another Core Unconventional Business
+#### Appraisal Defined Optimal Plan
+- **Testing Results**: Concluded testing of various well configurations and completion designs.
+- **Development Plan**: Recent strong well results have led to a high-graded, two-layer development plan.
+**Cost of Supply Improvement**:- Current Pads: $40/Bbl WTI
+- Development Phase: Targeting mid-$30s CoS
+- **High-Graded Resource**: 1.8 BBOE at mid-$30s CoS.
+#### Moving to Development Phase
+- **Operational Changes**:
+  - Adding a second rig in 2024.
+  - Running one continuous frac crew.
+  - Refining completion design.
+  - CPF2 start-up expected in Q3 2023.
+#### Significant Production Growth
+- **Production Metrics**:
+  - 60% of liquids production priced off WTI.
+  - Long-term commercial offtake agreements secured.
+**Production Forecast**:
+- **2023E**: Initial production levels.
+- **2024-2028 Average**: Expected growth.
+- **2029-2032 Average**: Continued growth trajectory.
+- **CAGR**: 20% over the next 10 years.","Unknown","[ 0.02961688  0.04249655 -0.01971802 ... -0.00424806 -0.00722091
+  0.01499175]"
+"[Page Unknown]
+### International Conventional: Steady Cash Flow Generator
+**Brent-Linked Oil and International Gas**
+#### Key Facts:
+- **Norway**:  - Production: 115 MBOED
+  - Four subsea tie backs scheduled for onstream in 2024.
+  - Greater Ekofisk Area license extended through 2048.
+ - **Libya**:  - Production: 50 MBOED
+  - Increased working interest to approximately 20% in Waha Concession.
+  - Long-term optionality available.
+ - **Malaysia**:  - Production: 40 MBOED
+  - Low Cost of Supply projects are offsetting production decline.
+ - **China**:  - Production: 30 MBOED
+  - Production sharing contract terms aligned to 2039.
+  - Progressing offshore windfarm initiatives in China.
+#### Supporting Data/Trends:
+- Production estimates for 2023, 2024-2028 average, and 2029-2032 average are illustrated in a bar graph, indicating a steady production flow.
+#### Financial/Business Implications:
+- Projected free cash flow of approximately $1 billion per year over the next 10 years at a price of $60 per barrel WTI.","Unknown","[-0.01081462  0.01228548 -0.01160531 ... -0.00488868 -0.00658485
+ -0.00756683]"
+"[Page Unknown]
+### Alaska Conventional: Legacy World-Class Basin
+#### Summary of Extracted Information
+**Key Facts:**
+- 100% of production is priced at Brent+.
+- Production forecast for 2023 is approximately 200 MBOD (thousand barrels of oil per day).
+- Expected production averages for 2024-2028 and 2029-2032 remain consistent with 2023 levels.
+- Over the next 10 years, production growth is projected at approximately 2-3%.
+**Supporting Data/Trends:**
+- The production graph indicates stable output levels around 200 MBOD from 2023 through 2032.
+- The cost of supply is estimated at ~$25 per barrel for over a decade.
+**Governance/Policy Information:**
+- ConocoPhillips is the largest producer in the region, leveraging over 40 years of experience and existing infrastructure.
+- The development plan includes new pads to fill existing capacity and drilling from existing pads.
+**Financial/Business Implications:**
+- The capital expenditure (Capex) is projected to be around ~$1 billion per year.
+- Key projects include Nuna, E News, Coyote, Fiord West, Kuparuk, and Torok.","Unknown","[ 0.01050731 -0.01149064 -0.01436131 ...  0.00898474 -0.00609821
+  0.00838206]"
+"[Page Unknown]
+### Willow: Building on Our Long History
+#### Summary of Extracted Information
+**Key Facts:**
+- **Location:** National Petroleum Reserve – Alaska, focusing on the Willow project area.
+- **Legacy Infrastructure:**
+  - 13 Central Processing Facilities
+  - Approximately 120 Drill Sites
+  - Approximately 410 Miles of Corridor Road and Pipelines
+- **Willow Project:**
+  - 1 Central Processing Facility
+  - 3 Drill Sites
+  - Approximately 26 Miles of Corridor Road and Pipelines
+**Supporting Data/Trends:**
+- The Willow project is positioned within a well-established infrastructure framework, leveraging existing facilities and resources.
+**Governance/Policy Information:**
+- **Extensive Definition:** 100% Front-End Engineering Design (FEED) complete at Final Investment Decision (FID).
+- **Simple Governance:** Entirely owned by ConocoPhillips, ensuring streamlined decision-making.
+- **Limited Complexity:** No novel designs, reducing potential project risks.
+**Financial/Business Implications:**
+- **Proven Execution Model:** The project builds on a successful track record of executing similar projects in the North Slope region over the past five years, utilizing experienced contractors.
+- Modular facilities are designed and constructed in the U.S. by reputable Gulf Coast contractors, enhancing reliability and efficiency.","Unknown","[-0.00406551  0.00982978 -0.01137187 ...  0.00222654 -0.01051424
+  0.01335102]"
+"[Page Unknown]
+### Willow: Delivering Competitive Returns Into the Next Decade
+#### Key Facts:
+- **Capital Expenditure (Capex)**: Projected at $1-$1.5 billion per year from 2024 to 2028, totaling $7-$7.5 billion to reach First Oil.
+- **Components of Capex**:
+  - Drill sites and drilling
+  - Infrastructure, including roads, pipelines, power, and pads
+  - Central processing facility
+#### Key Construction Milestones:
+- **2023**: Winter road and pipeline construction; Central processing facility procurement; Operation center fabrication and delivery.
+- **2024**: Central processing facility fabrication and delivery.
+- **2025**: Complete tie-ins to new drill sites and existing infrastructure.
+- **2026**: Commence drilling program.
+- **2029**: Target for First Oil.
+#### Supporting Data/Trends:
+- **Production Forecast**:  - Willow is expected to produce 100% oil, with a significant volume ramp-up anticipated.
+  - Comparison of production (MBOED) shows Willow's output increasing from 2023E through 2029-2032.
+#### Governance/Policy Information:
+- **Pre-drilling Strategy**: Aimed at filling the facility at startup, ensuring efficient operations.
+- **Quality of Output**: Premium-quality light crude is expected, which is superior to the current Alaska average.
+#### Financial/Business Implications:
+- **Free Cash Flow (FCF)**: The project is designed to drive strong margins and free cash flow, leveraging existing pipeline infrastructure for cost efficiency.","Unknown","[-0.01959358  0.01024026 -0.00770842 ... -0.00047195 -0.01670695
+  0.01445732]"
+"[Page Unknown]
+### Alaska and International: Our Unique Diversification Advantage
+**Summary of Extracted Information**
+**Key Facts:**
+- **Capital Expenditure ($B):**
+  - 2023 Estimated: ~$2B
+  - Average for 2024-2028: ~$4B
+  - Average for 2029-2032: ~$4B
+- **Production (MBOED):**
+  - 2023 Estimated: ~800 MBOED
+  - Average for 2024-2028: ~1,000 MBOED
+  - Average for 2029-2032: ~1,000 MBOED
+**Supporting Data/Trends:**
+- Free Cash Flow (FCF) projections:
+  - 2023 Estimated: ~$5B
+  - Average for 2024-2028: ~$10B
+  - Average for 2029-2032: ~$10B
+- FCF is projected to exceed $50B over the next 10 years at a mid-cycle planning price of $60 per barrel (WTI).
+- Upside sensitivity at $80 per barrel (WTI).
+**Governance/Policy Information:**
+- The presentation indicates a focus on capital allocation and production growth, emphasizing a reinvestment rate of approximately 40%.
+**Financial/Business Implications:**
+- The data suggests a strong financial outlook with significant free cash flow generation and a stable production forecast, indicating potential for investment and growth in the coming years.","Unknown","[-0.00454137  0.00381336 -0.01366648 ...  0.00257113 -0.00352255
+ -0.00436803]"
+"[Page Unknown]
+**LNG and Commercial Presentation Overview**
+**Key Facts:**
+- Presenter: Bill Bullock, EVP and CFO of ConocoPhillips.
+- Focus on Liquefied Natural Gas (LNG) and commercial strategies.
+**Supporting Data/Trends:**
+- Specific data and trends are not provided in the image.
+**Governance/Policy Information:**
+- No governance or policy details are included in the image.
+**Financial/Business Implications:**
+- Financial implications related to LNG and commercial activities are not detailed in the image.
+ as an introduction to a presentation on LNG and commercial strategies by ConocoPhillips. Further details would likely be provided in subsequent slides.","Unknown","[ 0.00342339 -0.00556277 -0.01629097 ... -0.00055462  0.01654115
+  0.00144772]"
+"[Page Unknown]
+### LNG Opportunities Underpinned by Strong Commercial Acumen
+#### Rapidly Growing LNG Market
+- **Key Facts:**
+  - Strong demand for LNG in Asia and Europe, driven by energy security and the energy transition.
+  - Qatar and Australia are foundational investments in the LNG sector.
+  - North American gas production is a key driver of LNG supply growth.
+#### Adding North America to Low-Cost LNG Footprint
+- **Key Facts:**
+  - Port Arthur is highlighted as a premier LNG development.
+  - Long-term optionality exists on the Gulf and West Coasts.
+  - Offtake margins are enhanced through diversion capability.
+#### Extensive Commercial Footprint
+- **Key Facts:**
+  - The company has a global market presence.
+  - It is the second-largest natural gas marketer in North America.
+  - Over 60 years of experience in the LNG industry.","Unknown","[ 0.00512091  0.01925203 -0.01698327 ...  0.00852405  0.00506014
+  0.01365306]"
+"[Page Unknown]
+### Attractive Global LNG Portfolio
+#### Key LNG Supply and Demand Markets by 2035 (MTPA)
+- **Supply and Demand Overview:**
+  - **Total Demand:** 437 MTPA
+  - **Key Demand Centers:**
+    - **Asia:** 64 MTPA
+    - **Europe:** 128 MTPA
+    - **Qatar:** 141 MTPA
+    - **Australia Pacific LNG:** 77 MTPA
+    - **Port Arthur LNG:** 212 MTPA
+  - **West Coast Optionality:** Additional supply options indicated.
+#### ConocoPhillips Assets at Nexus of Supply and Demand
+- **Market Insights:**
+  - Asia and Europe are projected to remain significant demand centers for LNG.
+  - Qatar and Australia are highlighted as reliable sources of LNG.
+  - North America is expected to dominate LNG supply growth.
+#### ConocoPhillips Global Net LNG Exposure (MTPA)
+- **Projected Growth:**
+  - **2023:** Initial exposure
+  - **2028:** Increased exposure with contributions from various projects (PA LNG, NFE/NFS, QG3, APLNG).
+  - **2032:** Continued growth in net LNG exposure.
+#### ConocoPhillips Net LNG Capital Spend ($B)
+- **Cumulative Capital Investment:**
+  - **2022 Estimate:** $0B
+  - **2023 Estimate:** $1B
+  - **2024-2028 Average:** $2B
+  - **2029-2032 Average:** $0.7B
+  - **Total Cumulative Capital:** Approximately $3.7B
+### Summary
+ConocoPhillips is strategically positioned in the global LNG market, focusing on significant demand centers in Asia and Europe, with reliable supply sources from Qatar and Australia. The company anticipates substantial growth in its LNG exposure and plans a cumulative capital investment of around $3.7 billion through 2032.","Unknown","[-0.00624337  0.0130293  -0.01339611 ...  0.00896385  0.00452778
+  0.01422907]"
+"[Page Unknown]
+### Port Arthur is a Premier LNG Development
+#### FID of Port Arthur Phase 1
+- **Key Facts:**
+  - FERC-approved and construction-ready with a high-quality operator and EPC contractor.
+  - ConocoPhillips to manage gas supply.
+  - Located near Gulf Coast infrastructure and low-cost, low-GHG gas basins.
+  - ConocoPhillips initiated the project.
+#### Strategic Optionality
+- **Key Facts:**
+  - Access to low-cost, uncontracted excess capacity.
+  - Secured long-term optionality on the Gulf and West Coasts.
+  - Focus on market development and offtake rather than additional equity.
+  - Evaluating the development of CCS (Carbon Capture and Storage) projects at the Port Arthur facility.
+#### Low-Cost Offtake Secured
+- **Supporting Data/Trends:**
+  - 5 MTPA (Million Tons Per Annum) offtake from Port Arthur Phase 1.
+  - Competitive liquefaction fees.
+  - Active marketing efforts underway, with significant customer interest.","Unknown","[ 0.00600841  0.03925962 -0.00749587 ...  0.01179819  0.01448421
+  0.02592322]"
+"[Page Unknown]
+### ConocoPhillips Commercial Advantage
+#### Port Arthur LNG Marketing Example: Sale into Germany
+- **Overview**: ConocoPhillips holds re-gas capacity in Germany’s first onshore LNG terminal for a portion of Port Arthur LNG.
+- **Pricing Strategy**: Captures Trading Hub Europe (THE) price with diversion capability when other international prices exceed THE.
+- **Management**: Managed and marketed by an experienced ConocoPhillips commercial organization.
+#### Global Marketing Presence
+- **Volume**: >10 BCFD (Billion Cubic Feet per Day) and >1 MMBOE (Million Barrels of Oil Equivalent).
+- **Locations**: London, Singapore, Houston, Calgary, Beijing, Tokyo.
+#### Key Facts
+- **Global Gas, Power, and LNG**:  - 9x equity in gas marketed globally.
+  - 6.0 GWh of power marketed.
+  - ~1 MTPA (Million Tons Per Annum) of spot sales into Asia.
+- **LNG Technology**:  - 113 MTPA utilizing the Optimized Cascade® process.
+  - 2nd largest global LNG technology provider.
+- **Cargo Management**:  - 25 cargoes marketed globally per month.
+  - 45% of cargoes are Brent-linked.
+  - 180 MBOD (Thousand Barrels of Oil per Day) North American export capacity.","Unknown","[ 0.004371   -0.01005918 -0.01997724 ... -0.00429652  0.00971421
+  0.00666039]"
+"[Page Unknown]
+**Lower 48 Presentation Overview**
+**Summary of Extracted Information**
+- **Main Topic:** Overview of ConocoPhillips' operations in the Lower 48 states.
+- **Presenter:** Nick Olds, Executive Vice President (EVP) of Lower 48.
+**Key Facts:**
+- The presentation likely covers strategic initiatives, operational updates, and performance metrics related to the Lower 48 region.
+**Supporting Data/Trends:**
+- Specific data and trends are not provided in  may be included in subsequent slides.
+**Governance/Policy Information:**
+- No governance or policy information is presented in .
+**Financial/Business Implications:**
+- Financial implications and business strategies may be discussed in detail in later sections of the presentation.","Unknown","[ 1.6621642e-02 -2.0653693e-02 -1.1757802e-02 ...  2.3737650e-03
+  1.5818050e-02 -8.6350767e-05]"
+"[Page Unknown]
+### Premier Lower 48 Assets Underpin Our Returns-Focused Strategy
+#### Industry Leader Focused on Maximizing Returns
+- **Key Facts:**  - Largest producer in the Lower 48 unconventional sector.
+  - Maintains a deep, durable, and diverse unconventional portfolio.
+  - Emphasizes disciplined development to optimize returns and recovery.
+#### Production and Free Cash Flow Growth into the Next Decade
+- **Key Facts:**
+  - Anticipates approximately 7% production growth in the Permian region.
+  - Expected to double free cash flow by the end of the decade.
+  - Eagle Ford and Bakken regions are projected to deliver significant free cash flow.
+#### Delivering Continuous Improvements
+- **Key Facts:**
+  - Focus on accelerating technology across four core basins to enhance value.
+  - Commitment to emissions reductions and sustainable development initiatives.","Unknown","[ 0.02465225  0.03304388 -0.01083799 ...  0.00700513 -0.01371989
+  0.01271812]"
+"[Page Unknown]
+### Deep, Durable and Diverse Portfolio with Significant Growth Runway
+#### Key Facts:
+- **2022 Lower 48 Unconventional Production**: ConocoPhillips produced approximately 1,200 MBOED (thousand barrels of oil equivalent per day).
+- **Net Remaining Well Inventory**: ConocoPhillips has a remaining well inventory of around 15,000 wells.
+#### Supporting Data/Trends:
+- **Average Cost of Supply**: The average cost of supply is approximately $32 per barrel (BBL).
+- **Resource Distribution**: The chart shows resource distribution across various basins:
+  - Delaware Basin
+  - Midland Basin
+  - Eagle Ford
+  - Bakken
+  - Other
+#### Governance/Policy Information:
+- ConocoPhillips is identified as the largest producer in the Lower 48 unconventional sector, with plans for growth into the next decade.
+#### Financial/Business Implications:
+- The company’s significant remaining well inventory and low average cost of supply suggest a strong potential for future production and profitability.","Unknown","[ 0.0187181  -0.00148155 -0.01050093 ...  0.00779801 -0.00017514
+  0.00538055]"
+"[Page Unknown]
+### Delaware: Vast Inventory with Proven Track Record of Performance
+#### Summary of Extracted Information
+**Key Facts:**
+- The Delaware Basin has a prolific acreage spanning approximately 659,000 net acres.
+- The total operated Permian inventory is divided into 65% Delaware Basin and 35% Midland Basin.
+**Supporting Data/Trends:**
+- The 12-month cumulative production (in BOE/FT) shows a significant improvement of about 30% from 2019 to 2022.
+- The graph indicates a steady increase in cumulative production over the years 2019 to 2022.
+**Governance/Policy Information:**
+- The data is sourced from Enverus and ConocoPhillips, with references to industry competitors.
+**Financial/Business Implications:**
+- The Delaware Basin's well capital expenditure (Capex) per estimated ultimate recovery (EUR) is presented, indicating financial metrics for investment evaluation.
+- The average single well Capex is compared among the top eight public operators in the region, highlighting ConocoPhillips' position in the market.","Unknown","[ 0.01295891  0.02401914 -0.01599218 ...  0.00839744 -0.00686537
+  0.00430291]"
+"[Page Unknown]
+### Midland: Acreage in the Heart of Liquids-Rich Basin
+#### Summary of Extracted Information
+**Key Facts:**
+- The Midland Basin has a high-margin play covering approximately 251,000 net acres.
+- The total operated Permian inventory is 35%, with a distinction between the Midland and Delaware Basins.
+**Supporting Data/Trends:**
+- The 12-month cumulative production (in BOE/FT) shows an improvement of approximately 6% from 2019 to 2022.
+- The production trend indicates a steady increase over the months, with data points for 2019 and the 2020-2022 period.
+**Governance/Policy Information:**
+- No specific governance or policy information is provided in the image.
+**Financial/Business Implications:**
+- The Midland Basin well capital expenditure per estimated ultimate recovery (Capex/EUR) is highlighted, with ConocoPhillips positioned among the top operators.
+- The production growth is characterized as low to mid single-digit, indicating a cautious but steady growth outlook.","Unknown","[ 0.02048835  0.02158509 -0.01013291 ...  0.00118813 -0.01834255
+  0.00892491]"
+"[Page Unknown]
+### Continuously Optimizing Permian Acreage and Value
+#### Acreage Trades
+- **Illustration**: Shows the changes in acreage before and after trades.
+- **Trade Area**: Focuses on the Loving and Reeves areas.
+#### Recent Acreage Trade Metrics
+- **Lateral Length**: Increased by 2x.
+- **Capex/FT**: Decreased by 30%.
+- **Cost of Supply**: Decreased by 30%.
+#### Permian-Operated Inventory
+- **Cost of Supply Improvement**: Estimated at 30-40% from lateral-length extensions.
+- **Lateral Length Distribution**:
+  - ~20% of lateral lengths are between 1.5 to 2 miles.
+  - ~60% of lateral lengths are 2 miles or greater.
+#### Key Takeaway
+- **Vast Long-Lateral Inventory**: Enhances returns and durability.","Unknown","[ 0.00514486  0.0134482  -0.01385946 ... -0.00060558 -0.00529292
+  0.01089839]"
+"[Page Unknown]
+### Permian Drives Free Cash Flow in Lower 48
+#### Summary of Extracted Information
+**Key Facts:**
+- **10-Year Production CAGR:** Approximately 7%
+- **Reinvestment Rate:** About 50%
+- **Program Cost of Supply:** Less than $35 per barrel (BBL)
+**Production (MBOED):**
+- **2023E:** Estimated production level
+- **2024-2028 Average:** Expected production growth
+- **2029-2032 Average:** Anticipated plateau in production
+**Free Cash Flow (FCF):**
+- **2023E:** Initial FCF estimate
+- **2024-2028 Average:** Projected FCF growth
+- **2029-2032 Average:** Continued FCF generation
+- **Total FCF Generated Over the Next 10 Years:** Approximately $45 billion at $60 per BBL WTI
+**Supporting Data/Trends:**
+- FCF projections are sensitive to WTI prices, with scenarios for both $60 and $80 per BBL.
+**Governance/Policy Information:**
+- The data reflects non-GAAP measures as defined in the appendix.
+**Financial/Business Implications:**
+- The projections indicate a strong financial outlook for the Permian region, with significant cash flow generation expected over the next decade.","Unknown","[-0.0220182   0.02620295 -0.0053275  ...  0.00263559 -0.01973269
+ -0.00616848]"
+"[Page Unknown]
+### Eagle Ford and Bakken Delivering Material Free Cash Flow
+#### Summary of Extracted Information
+**Key Facts:**
+- **Net Acreage:**
+  - Eagle Ford: ~199,000 net acres
+  - Bakken: ~560,000 net acres
+- **Production Sustainability:** Projected production levels are expected to be maintained over the next decade.
+**Supporting Data/Trends:**
+- **Well Capital Expenditure (Capex) per Estimated Ultimate Recovery (EUR):**
+  - Eagle Ford: Capex is shown to be around $10-$30 per BOE.
+  - Bakken: Capex is shown to be around $0-$15 per BOE.
+- **Production Estimates (MBOED):**
+  - 2023E: Approximately 300 MBOED
+  - 2024-2028 Average: Approximately 300 MBOED
+  - 2029-2032 Average: Approximately 200 MBOED
+**Governance/Policy Information:**
+- The data is sourced from Enverus and ConocoPhillips, indicating a consistent and proven track record in the basin's sweet spots.
+**Financial/Business Implications:**
+- The operations are projected to deliver approximately $20 billion in free cash flow (FCF) over the next 10 years at a price of $60 per barrel of WTI.","Unknown","[ 0.0088796   0.02333192 -0.0169631  ...  0.00096738 -0.01941264
+ -0.01119136]"
+"[Page Unknown]
+### Enhancing Value and Lowering Emissions through Technology
+#### Drilling
+- **Permian Real-Time Ops Center**
+  - Real-time analytics improve curve build time by 20% in Eagle Ford.
+  - Permian drilling efficiencies improved by approximately 50% since 2019.
+#### Completions
+- **E-Frac**
+  - Dual fuel and E-frac reduce emissions by 10% to 40% compared to diesel.
+  - More than 50% of Permian completions to be Simulfrac’d in 2023.
+#### Operations
+- **Autonomous Drone Pilot**
+  - Real-time intelligent production surveillance, automation, and process optimization.
+  - Drone-based surveillance increases inspection frequency.
+### Leveraging Operational Wins Across Core Four Basins
+- Focus on enhancing operational efficiency and reducing emissions through advanced technologies in drilling, completions, and operations.","Unknown","[ 0.01880143  0.01320253 -0.0209739  ...  0.00571471 -0.01019143
+  0.02038286]"
+"[Page Unknown]
+### Delivering on Emissions Reductions and Sustainable Development
+#### Summary of Extracted Information
+**Key Facts:**
+- **Lower 48 GHG Intensity:**  - 2019: 28 kg CO₂e/BOE
+  - 2022: <15 kg CO₂e/BOE
+  - Reduction: ~50%
+ - **Lower 48 Associated Gas Flaring:**
+  - 2019: 1.7%
+  - 2022: 0.3%
+  - Reduction: ~80%
+ - **Permian Recycled Frac Water:**
+  - 2019: 11%
+  - 2022: 52%
+  - Increase: >3X
+**Supporting Data/Trends:**
+- Significant reductions in greenhouse gas intensity and associated gas flaring from 2019 to 2022.
+- A notable increase in the percentage of recycled frac water in the Permian region.
+**Governance/Policy Information:**
+- Focused plans to further reduce emissions and maximize water reuse include:
+  - Reducing Methane and Flaring
+  - Improving Facilities Design
+  - Electrifying Compression
+  - Optimizing D&C Power
+  - Water Conservation
+**Financial/Business Implications:**
+- The reductions in emissions and improvements in water reuse practices may enhance operational efficiency and sustainability, potentially leading to cost savings and improved regulatory compliance.","Unknown","[ 0.01205196 -0.00839347 -0.01184134 ... -0.00043562 -0.00179999
+  0.02071845]"
+"[Page Unknown]
+### Significant Free Cash Flow Growth Over the Decade
+#### Key Facts:
+- **Capital Expenditure Projections**:
+  - 2023 Estimated: ~$6B
+  - 2024-2028 Average: ~$6B
+  - 2029-2032 Average: ~$7B
+- **Production Estimates**:
+  - 2023 Estimated: ~1,200 MBOED
+  - 2024-2028 Average: ~1,400 MBOED
+  - 2029-2032 Average: ~1,600 MBOED
+#### Supporting Data/Trends:
+- **Free Cash Flow (FCF) Projections**:
+  - 2023 Estimated: ~$5B
+  - 2024-2028 Average: ~$10B
+  - 2029-2032 Average: ~$15B
+- **Price Sensitivity**:
+  - $60/Bbl WTI: Mid-Cycle Planning Price
+  - $80/Bbl WTI: Upside Sensitivity
+#### Governance/Policy Information:
+- The company anticipates generating approximately **$65B in free cash flow** over the next decade at a $60/Bbl WTI price, with a **reinvestment rate of around 50%**.
+#### Financial/Business Implications:
+- The projections indicate a significant increase in both capital expenditures and production levels, suggesting a robust growth strategy aimed at maximizing free cash flow in response to market conditions.","Unknown","[-0.01483963  0.02891747 -0.00433838 ... -0.00777024 -0.02803379
+ -0.01724688]"
+"[Page Unknown]
+**Financial Plan Overview**
+**Key Facts:**
+- Presentation by Bill Bullock, EVP and CFO of ConocoPhillips.
+- Focus on the financial strategy and planning of the company.
+**Supporting Data/Trends:**
+- Specific financial metrics and projections are likely to be discussed in subsequent slides.
+**Governance/Policy Information:**
+- The presentation may outline governance structures related to financial decision-making.
+**Financial/Business Implications:**
+- Insights into the company's financial health and future investment strategies are expected.","Unknown","[-0.00672329 -0.01173954 -0.01279559 ...  0.00789869  0.01507406
+ -0.01308492]"
+"[Page Unknown]
+### A Financial Plan with Durability of Returns and Cash Flow Growth
+#### Summary of Extracted Information
+**Key Facts:**
+- **Consistent Returns on and of Capital:**
+  - Achieving peer-leading Return on Capital Employed (ROCE) that improves over time.
+  - Utilizes a CFO-based distribution framework aimed at delivering compelling shareholder returns.
+- **Cash Flow Growth into the Next Decade:**
+  - Projected ~6% Compound Annual Growth Rate (CAGR) in Cash Flow from Operations (CFO) through the plan.
+  - Emphasizes disciplined capital investment to accelerate Free Cash Flow (FCF) growth.
+- **Battle-Tested Financial Priorities:**
+  - Maintains an 'A'-rated balance sheet that is resilient through economic cycles.
+  - Financial strategies are stress-tested to ensure durability.
+**Supporting Data/Trends:**
+- The CAGR for CFO is based on projections for FY2024 at $60 per barrel WTI.
+**Governance/Policy Information:**
+- The financial plan includes a focus on shareholder returns and disciplined investment strategies.
+**Financial/Business Implications:**
+- The outlined strategies aim to ensure consistent returns and robust cash flow growth, enhancing overall financial stability and resilience against market fluctuations.","Unknown","[ 0.0047338   0.01041195 -0.00622236 ... -0.00768692 -0.00786699
+ -0.00362938]"
+"[Page Unknown]
+**Committed to Top-Quartile Returns on Capital**
+**Five-Year Average ROCE** *Peer-Leading ROCE Performance*
+- **Key Facts:**
+  - ConocoPhillips has a five-year average Return on Capital Employed (ROCE) of approximately 14%, leading its peers.
+  - The performance is compared against independent and integrated peers, with independent peers showing lower average ROCE.
+- **Supporting Data/Trends:**
+  - The bar graph illustrates ConocoPhillips' ROCE in comparison to independent and integrated peers, with ConocoPhillips significantly outperforming both categories.
+**Earnings ($B)** *Low Cost of Supply Investments Fuel Expanding Margins*
+- **Key Facts:**
+  - Projected earnings for 2023 are expected to be lower than future averages, with a compound annual growth rate (CAGR) of approximately 10% anticipated from 2024 to 2032 at a $60 per barrel WTI price.
+- **Supporting Data/Trends:**
+  - Earnings are expected to increase significantly in the years following 2023, with averages for 2024-2028 and 2029-2032 showing a strong upward trend.
+**Return on Capital Employed (ROCE)** *Near-Term Delivery of S&P 500 Top-Quartile ROCE*
+- **Key Facts:**
+  - The projected ROCE for ConocoPhillips is aligned with the S&P 500 top-quartile performance, indicating strong financial health and operational efficiency.
+- **Supporting Data/Trends:**
+  - The graph shows expected ROCE for 2023, 2024-2028, and 2029-2032, with sensitivity analysis based on $60 and $80 per barrel WTI prices, indicating potential for higher returns with increased oil prices.
+**Governance/Policy Information:**
+- The data reflects ConocoPhillips' commitment to maintaining top-quartile returns, which may influence future investment and operational strategies.
+**Financial/Business Implications:**
+- The strong projected earnings and ROCE suggest a robust financial outlook for ConocoPhillips, positioning the company favorably within the energy sector.","Unknown","[ 0.00536608 -0.0017406  -0.00886189 ... -0.00067898 -0.00336065
+ -0.00989931]"
+"[Page Unknown]
+### Cash Flow Growth into the Next Decade
+#### Cash From Operations ($B)
+- **Projected Growth**: Approximately 6% CAGR from 2024 to 2032 at $60 per barrel WTI.
+- **Estimates**:
+  - **2023E**: Estimated cash from operations is around $20B.
+  - **2024-2028 Average**: Expected to increase significantly.
+  - **2029-2032 Average**: Further growth anticipated.
+#### Free Cash Flow ($B)
+- **Projected Growth**: Approximately 11% CAGR from 2024 to 2032 at $60 per barrel WTI.
+- **Estimates**:
+  - **2023E**: Estimated free cash flow is around $5B.
+  - **2024-2028 Average**: Expected to rise.
+  - **2029-2032 Average**: Continued upward trend.
+#### Key Insights
+- **Annual Cash Flow from Longer-Cycle Projects**: Approximately $3.5B of annual cash flow from longer-cycle projects (e.g., Willow, Port Arthur LNG Phase 1, North Field Expansions).
+- **Total Free Cash Flow Available for Distribution**: Over $115B expected over the next 10 years at $60 per barrel WTI.
+### Supporting Data/Trends
+- Cash flow estimates are based on mid-cycle planning prices of $60 and $80 per barrel WTI, indicating sensitivity to oil price fluctuations.
+### Financial/Business Implications
+- The projected growth in cash flow and free cash flow suggests strong financial health and potential for significant returns to stakeholders over the next decade.","Unknown","[-0.02004992  0.03238481 -0.00467704 ... -0.0024948  -0.02646894
+ -0.01158779]"
+"[Page Unknown]
+### CFO-Based Framework Delivers Leading Returns of Capital
+#### Five-Year Distribution as % of CFO
+- **Key Facts:**
+  - ConocoPhillips shows a higher distribution as a percentage of cash from operations (CFO) compared to both Integrated Peers and Independent Peers.
+  - The graph indicates a consistent execution of priorities leading to these results.
+#### Five-Year Distribution Yield
+- **Key Facts:**
+  - ConocoPhillips also leads in distribution yield over the five-year period, outperforming both Independent and Integrated Peers.
+#### Compelling Shareholder Returns Through Cycles
+- **Tier 1: Ordinary Dividend**
+  - Focus on S&P Top-Quartile Dividend Growth.
+ - **Tier 2: Share Buybacks**
+  - Share buybacks are utilized to reduce absolute dividends over time.
+- **Tier 3: VROC (Variable Return of Capital)**
+  - Provides a flexible channel for higher commodity prices.
+#### Supporting Data/Trends:
+- The data is sourced from Bloomberg, covering the years 2018-2022, and includes weighted averages of dividends paid and share buybacks as a percentage of CFO and year-end market cap.
+#### Financial/Business Implications:
+- The framework emphasizes a strong commitment to returning capital to shareholders through dividends and share buybacks, positioning ConocoPhillips favorably in comparison to its peers.","Unknown","[ 0.01267714 -0.00751932 -0.01877206 ... -0.00505661 -0.00641354
+ -0.01305947]"
+"[Page Unknown]
+### Fortress Balance Sheet: A Strategic Asset
+#### Summary of Extracted Information
+**Key Facts:**
+- **Gross Debt Profile:**
+  - 2021: $20B
+  - 2022: $17B (after $3B debt reduction)
+  - 2026: Projected to be $15B (after $2B in natural maturities)
+- **Debt Reduction Target:** $5B by 2026
+- **Interest Reduction:** Approximately $250MM per year
+- **Maturity Extension:** Weighted-average maturity extended by three years
+**Supporting Data/Trends:**
+- **Net Debt/CFO (Consensus 2023):**  - ConocoPhillips: 0.3x
+  - Integrated Peers: Not specified
+  - Independent Peers: Not specified
+  - S&P 500 Energy: Not specified
+  - S&P 500: Not specified
+- **Net Debt/CFO at $60/BBL WTI:**
+  - 2024-2028 Average: 0.3x
+  - 2029-2032 Average: 0.2x
+**Governance/Policy Information:**
+- The company is on track with its debt reduction strategy and has set clear targets for future financial health.
+**Financial/Business Implications:**
+- The strategic focus on reducing debt and interest expenses positions ConocoPhillips favorably compared to peers, enhancing its financial stability and operational flexibility.","Unknown","[-0.00210813  0.02185198 -0.01873891 ... -0.01102422 -0.0070762
+ -0.00566701]"
+"[Page Unknown]
+### Plan Resilient Through Stress Test
+**Our Rationale for Holding Cash**
+#### Strategic Cash
+- **Longer-cycle projects**
+- **Share buybacks**
+- **Down-cycle price protection**
+- **Business development optionality**
+#### Reserve Cash
+- **~$2-3B**
+- **Maintain near-term operating plan even with price volatility**
+#### Operating Cash
+- **~$1B**
+- **Daily operating and working capital**
+---
+### Two-Year $40/BBL WTI Stress Test
+**Net Debt/CFO**
+#### Cash and CFO Fund Consistent Execution in Low Price Scenario
+- **2023 Consensus**: Reference point for projections.
+- **$60/BBL WTI (Base Plan)**: Comparison for financial planning.
+- **Two-Years at $40/BBL WTI**: Stress test scenario.
+#### Key Financial Strategies
+- **Maintain capital program**, including longer-cycle projects.
+- **Meet 30% distribution commitment** through ordinary dividend and share buybacks.
+- **<1.5x leverage ratio** through the down-cycle.
+- **No additional debt required**.
+---
+### Supporting Data/Trends
+- Graph shows projected Net Debt/CFO ratios for 2023-2028 under different price scenarios.
+### Governance/Policy Information
+- Emphasis on maintaining financial stability and strategic investments during price volatility.
+### Financial/Business Implications
+- Focus on resilience through cash management and strategic investments to navigate low price environments.","Unknown","[-0.00084562  0.00465914 -0.0055294  ... -0.01527049 -0.00294121
+ -0.00058701]"
+"[Page Unknown]
+### A Powerful Plan with Differential Upside
+**10-Year Plan ($B) 2023-2032**
+#### Summary of Extracted Information
+**Key Facts:**
+- CFO at $80/BBL WTI indicates upside sensitivity.
+- CFO at $60/BBL WTI serves as the mid-cycle planning price.
+- 30% of CFO is committed to additional distributions.
+**Supporting Data/Trends:**
+- Peer-leading Return on Capital Employed (ROCE) is expected to improve over time.
+- Top quartile growth in ordinary dividends.
+- More than 90% of market capitalization is distributed.
+- Free Cash Flow (FCF) breakeven is approximately $35/BBL WTI.
+- Projected Compound Annual Growth Rates (CAGR): ~6% for CFO and ~11% for FCF.
+**Governance/Policy Information:**
+- Commitment to significant distributions from CFO.
+**Financial/Business Implications:**
+- The plan is unhedged for price upside, indicating potential for increased revenue with rising oil prices.","Unknown","[ 0.00498998 -0.00614801 -0.01211106 ... -0.00026086 -0.00409331
+ -0.00163049]"
+"[Page Unknown]
+**Closing Presentation by ConocoPhillips**
+**Summary of Extracted Information**
+- **Main Topic:** Closing remarks by Ryan Lance, Chairman and CEO of ConocoPhillips.
+- **Key Facts:**  - The presentation is titled ""Closing.""
+  - It is led by Ryan Lance, indicating a formal conclusion to a meeting or presentation.
+- **Supporting Data/Trends:**  - No specific data or trends are provided in the image.
+- **Governance/Policy Information:**  - No governance or policy details are included in the image.
+- **Financial/Business Implications:**  - No financial or business implications are mentioned in the image.
+ as a title page for a closing segment, likely summarizing key points discussed in a prior presentation or meeting.","Unknown","[-1.0321007e-02  4.5893029e-03 -1.1400380e-02 ...  7.7370627e-05
+  2.1114733e-02  3.3237979e-05]"
+"[Page Unknown]
+### ConocoPhillips Remains the Must-Own E&P Company
+#### What You Heard Today
+- Commitment to delivering superior returns on and of capital through cycles.
+- Possession of a deep, durable, and diverse portfolio.
+- Progressing towards a 2050 Net-Zero ambition and accelerating the 2030 GHG emissions intensity reduction target.
+#### Foundational Principles
+- **Balance Sheet Strength**
+- **Disciplined Investments**
+- **Peer-Leading Distributions**
+- **ESG Excellence**
+#### A Compelling Returns Focused 10-Year Plan
+- **Peer leading ROCE** improving over time.
+- **Top quartile ordinary dividend growth.**
+- **>90% market cap** distributed.
+- **~$35/BBL WTI FCF Breakeven.**
+- **~6% CFO CAGR, ~11% FCF CAGR.**
+- Unhedged for price upside.
+### Key Facts
+- Focus on superior returns and capital efficiency.
+- Strong emphasis on sustainability and emissions reduction.
+### Supporting Data/Trends
+- Significant market cap distribution and competitive breakeven points.
+- Growth rates in cash flow and free cash flow indicate robust financial health.
+### Governance/Policy Information
+- Commitment to ESG principles and long-term sustainability goals.
+### Financial/Business Implications
+- Strong financial metrics suggest a solid investment opportunity with potential for growth and returns.","Unknown","[ 1.6430667e-02 -2.3165330e-05 -1.0859525e-02 ... -9.3387328e-03
+  4.7687143e-03 -4.6731872e-03]"
+"[Page Unknown]
+### Appendix
+**Reconciliations, Abbreviations and Definitions**
+**Summary of Extracted Information**
+- **Key Facts:**  as an introduction to an appendix section that likely contains reconciliations, abbreviations, and definitions relevant to ConocoPhillips.
+- **Supporting Data/Trends:** No specific data or trends are presented on .
+- **Governance/Policy Information:** Not applicable as  not provide governance or policy details.
+- **Financial/Business Implications:** Not applicable as  not include financial or business information.","Unknown","[ 0.01268433  0.02087006 -0.01224301 ... -0.00385797 -0.00746681
+ -0.00168252]"
+"[Page Unknown]
+### Abbreviations
+**Summary of Extracted Information**
+- **Key Facts:**
+  - APLNG: Australia Pacific LNG
+  - B: billion
+  - BBL: barrel
+  - BOE: barrels of oil equivalent
+  - CCS: carbon capture and storage
+  - CFO: cash from operations
+  - CO2: carbon dioxide
+  - ESG: environmental, social, and governance
+  - FID: final investment decision
+  - LNG: liquefied natural gas
+  - OPEX: operating expenses
+  - WTI: West Texas Intermediate
+- **Supporting Data/Trends:**
+  - Various units of measurement are defined, such as million (MM), billion (B), and tonnes (MT).
+- **Governance/Policy Information:**
+  - References to regulatory bodies and frameworks, such as FERC (Federal Energy Regulatory Commission) and GAAP (generally accepted accounting principles).
+- **Financial/Business Implications:**
+  - Terms related to financial metrics, including CAPEX (capital expenditures and investments) and FCF (free cash flow), indicating their relevance in business operations and investment decisions.","Unknown","[-0.00248754  0.04196159 -0.01332063 ... -0.00024858 -0.01200631
+  0.0168685 ]"
+"[Page Unknown]
+### Non-GAAP Reconciliations
+**Use of Non-GAAP Financial Information:**
+ConocoPhillips provides both GAAP and non-GAAP financial information to enhance understanding of its consolidated financial data. Non-GAAP measures are presented alongside GAAP measures to avoid implying that non-GAAP measures are more important.
+---
+### Reconciliation of Return on Capital Employed (ROCE)
+**Numerator:**
+- **Net Income (Loss) Attributable to ConocoPhillips:**
+  - 2016: (3,615)
+  - 2019: 7,189
+  - 2022: 18,680
+- **Adjustment to Exclude Special Items:**
+  - 2016: 307
+  - 2019: (3,153)
+  - 2022: (1,340)
+- **Net Income Attributable to Noncontrolling Interests:**
+  - 2016: 56
+  - 2019: 68
+  - 2022: -
+- **After-tax Interest Expense:**
+  - 2016: 796
+  - 2019: 637
+  - 2022: 641
+- **ROCE Earnings:**
+  - 2016: (2,456)
+  - 2019: 4,741
+  - 2022: 17,981
+**Denominator:**
+- **Average Total Equity:**
+  - 2016: 37,837
+  - 2019: 33,713
+  - 2022: 48,801
+- **Average Total Debt:**
+  - 2016: 28,225
+  - 2019: 14,930
+  - 2022: 17,742
+- **Average Capital Employed:**
+  - 2016: 66,062
+  - 2019: 48,643
+  - 2022: 66,543
+**ROCE (percent):**
+- 2016: -4%
+- 2019: 10%
+- 2022: 27%
+---
+This summary captures the key financial metrics and trends related to ConocoPhillips' Return on Capital Employed (ROCE) over the specified years.","Unknown","[ 0.01844908 -0.0161654  -0.01680689 ... -0.00032736 -0.00632183
+ -0.00102637]"
+"[Page Unknown]
+### Non-GAAP Reconciliations – Continued
+#### Reconciliation of Net Cash Provided by Operating Activities to Cash from Operations to Free Cash Flow
+**($ Millions, Except as Indicated)**
+| Year | 2016  | 2019   | 2022   |
+|------|-------|--------|--------|
+| Net Cash Provided by Operating Activities | 4,403 | 11,104 | 28,314 |
+| Adjustments: | | | |
+| Net Operating Working Capital Changes | (481) | (579) | (234) |
+| Cash from Operations | 4,884 | 11,683 | 28,548 |
+| Capital Expenditures and Investments | (4,869) | (6,636) | (10,159) |
+| **Free Cash Flow** | **15** | **5,047** | **18,389** |
+#### Reconciliation of Debt to Net Debt
+**($ Millions, Except as Indicated)**
+| Year | 2016  | 2019   | 2022   |
+|------|-------|--------|--------|
+| Total Debt | 27,275 | 14,895 | 16,643 |
+| Less: | | | |
+| Cash and Cash Equivalents | 3,610 | 5,362 | 6,694 |
+| Short-Term Investments | 50 | 3,028 | 2,785 |
+| **Net Debt** | **23,615** | **6,505** | **7,164** |
+### Summary of Extracted Information
+**Key Facts:**
+- Significant increases in net cash provided by operating activities from 2016 to 2022.
+- Free cash flow also shows substantial growth, particularly from 2019 to 2022.
+**Supporting Data/Trends:**
+- Net cash provided by operating activities rose from $4,403 million in 2016 to $28,314 million in 2022.
+- Free cash flow increased from $15 million in 2016 to $18,389 million in 2022.
+**Governance/Policy Information:**
+- Adjustments for net operating working capital changes indicate a focus on managing operational efficiency.
+**Financial/Business Implications:**
+- The reduction in net debt from $23,615 million in 2016 to $7,164 million in 2022 suggests improved financial health and liquidity management","Unknown","[-0.0104223   0.02754465 -0.00914814 ... -0.02008583 -0.02274867
+ -0.01868283]"
+"[Page Unknown]
+### Reconciliation of Reinvestment Rate
+**Summary of Extracted Information**
+**Key Facts:**
+- The table presents the reconciliation of the reinvestment rate from 2012 to 2022, detailing capital expenditures and investments, net cash provided by operating activities, and cash from operations.
+- The numerator includes capital expenditures and investments, while the denominator consists of net cash provided by operating activities adjusted for net operating working capital changes.
+**Supporting Data/Trends:**
+- **Capital Expenditure and Investments** (in millions):
+  - 2012: 14,172
+  - 2013: 15,537
+  - 2014: 17,085
+  - 2015: 10,050
+  - 2016: 4,869
+  - 2017: 4,591
+  - 2018: 6,750
+  - 2019: 6,636
+  - 2020: 4,715
+  - 2021: 5,324
+  - 2022: 10,159
+- **Net Cash Provided by Operating Activities** (in millions):
+  - 2012: 13,922
+  - 2013: 16,087
+  - 2014: 16,735
+  - 2015: 7,572
+  - 2016: 4,403
+  - 2017: 7,077
+  - 2018: 12,934
+  - 2019: 11,104
+  - 2020: 4,802
+  - 2021: 16,996
+  - 2022: 28,314
+- **Cash from Operations** (in millions):
+  - 2012: 15,161
+  - 2013: 16,039
+  - 2014: 17,240
+  - 2015: 7,594
+  - 2016: 4,884
+  - 2017: 7,062
+  - 2018: 12,299
+  - 2019: 11,683
+  - 2020: 5,174
+  - 2021: 15,725
+  - 2022: 28,548
+**Reinvestment Rate:**
+-","Unknown","[ 1.0516687e-05  3.7300594e-02 -1.7967448e-02 ... -2.7982557e-02
+ -2.5450328e-02 -1.3834792e-03]"
+"[Page Unknown]
+### Definitions
+#### Non-GAAP Measures
+**Cash from Operations (CFO)** - **Summary**: CFO is calculated by removing the impact of operating working capital from cash provided by operating activities. It helps investors understand changes in cash flow across periods consistently and in relation to peer companies.
+ **Free Cash Flow** - **Summary**: Defined as cash from operations minus capital expenditures and investments. It indicates how existing cash is used for sustaining capital plans and future growth, but does not account for cash available for discretionary expenditures.
+**Net Debt** - **Summary**: Total balance sheet debt minus cash, cash equivalents, and short-term investments. This measure allows for consistent comparison of debt across periods.
+**Reinvestment Rate** - **Summary**: Calculated as total capital expenditures divided by cash from operations. It helps investors understand the execution of the company’s capital allocation strategy.
+**Return on Capital Employed (ROCE)** - **Summary**: A measure of profitability comparing net income to average total equity plus average total debt. Adjustments are made for after-tax interest and non-operational impacts to ensure comparability over time. ROCE serves as an indicator of long-term company performance and capital efficiency relative to peers.","Unknown","[-0.02072991  0.01914565 -0.01868232 ... -0.01206131 -0.01579777
+ -0.02059539]"
+"[Page Unknown]
+### Definitions
+#### Other Terms
+**Cost of Supply** - The WTI equivalent price that generates a 10% after-tax return on a point-forward and fully burdened basis. Includes capital infrastructure, foreign exchange, price-related inflation, G&A, and carbon tax (if applicable). All resource barrels are discounted at 10%.
+**Distributions** - Total of ordinary dividends, share repurchases, and variable return of cash (VROC), also referred to as return of capital.
+**Free Cash Flow Breakeven** - The WTI price at which cash from operations equals capital expenditures and investments, also known as capital breakeven. Cash from operations is a non-GAAP measure.
+**Leverage Ratio** - Net debt divided by cash from operations. Both net debt and cash from operations are non-GAAP measures.
+**Optimized Cascade® Process** - A proprietary ConocoPhillips technology for liquefying natural gas. More information is available at the provided link.
+**Reserve Replacement** - A ratio representing the change in proved reserves, net of production, divided by current year production. It helps investors understand changes in proved reserves.
+**Resources** - Total resources estimated based on the Petroleum Resources Management System (PRMS), classifying hydrocarbons into commercial and sub-commercial categories. The company’s resource estimate includes volumes associated with both commercial and contingent categories.
+**Resource Life** - Calculated as total resource under $40 Cost of Supply divided by 2022 production.
+**Return of Capital** - Defined as the total of ordinary dividends, share repurchases, and variable return of cash (VROC), also referred to as distributions.","Unknown","[-0.00194489  0.0340141  -0.01572003 ... -0.00799791 -0.00492208
+  0.01197388]"
