@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pandas
+faiss-cpu
+tqdm
+openai
+pytesseract
+pdf2image
+pdfminer.six
+numpy
+rich
+nltk
+python-dotenv
