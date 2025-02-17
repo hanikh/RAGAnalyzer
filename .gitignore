@@ -11,8 +11,6 @@ venv/
 virtualenv/
 *.egg-info/
 db.sqlite3
-backend/data/
-backend/output/
 backend/src/__pycache__/
 
 # -------------------------------------
@@ -34,7 +32,6 @@ frontend/.env
 # 🐳 Docker
 # -------------------------------------
 *.dockerignore
-Dockerfile*
 docker-compose.yml
 .docker/
 .dockerignore
