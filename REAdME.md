@@ -43,7 +43,7 @@ README.md
 - Docker
 - Google Cloud SDK (for deployment)
 
-## 📂 Environment Variables
+## Environment Variables
 Create a `.env` file in `backend/src/config/`:
 
 ```env
@@ -116,5 +116,10 @@ PORT=8080
 To redeploy after code changes:
 1. Rebuild Docker images.
 2. Redeploy services with `gcloud run deploy` commands.
+
+## Outputs
+The screenshot of some outputs are provided in output folder.
+
+
 
 

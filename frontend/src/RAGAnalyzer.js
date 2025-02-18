@@ -31,7 +31,7 @@ export default function MarketAnalyzer() {
   const [comparisonLoading, setComparisonLoading] = useState(false);
 
   const BACKEND_URL = "http://localhost:8080";
-  //const BACKEND_URL = "https://rag-market-analyzer-792544276770.us-central1.run.app";
+  //const BACKEND_URL = "https://rag-backend-latest-792544276770.us-central1.run.app";
   const GCS_BUCKET_URL = "https://storage.googleapis.com/rag-frontend-bucket/pdfs";
 
   // Fetch summaries on load
